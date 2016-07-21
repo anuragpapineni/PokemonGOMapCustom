@@ -629,14 +629,7 @@ def main():
             changed = False
 
         if step == steplimit2-1:
-            step = 0
-            pos = 1
-            x = 0
-            y = 0
-            dx = 0
-            dy = -1
-            api_endpoint, access_token, profile_response = login(args)
-            clear_stale_pokemons()
+            main()
 
 
         print('Completed: ' + str(
