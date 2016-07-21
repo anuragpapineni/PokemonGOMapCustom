@@ -635,7 +635,8 @@ def main():
             y = 0
             dx = 0
             dy = -1
-            login(args)
+            api_endpoint, access_token, profile_response = login(args)
+            clear_stale_pokemons()
 
 
         print('Completed: ' + str(
