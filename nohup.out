@@ -1,0 +1,3752 @@
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger pin code: 207-382-898
+[-] register_background_thread called
+[-] register_background_thread: initial registration
+[+] Locale is en
+[+] Getting initial location
+[!] Your given location: 207-299 Boren Ave N, Seattle, WA 98109, USA
+[!] lat/long/alt: 47.6200132 -122.3358774 0.0
+[!] PTC login for: papinenianurag
+[+] RPC Session Token: TGT-2847878-k9Te9lJjUJWTm ...
+[+] Received API endpoint: https://pgorelease.nianticlabs.com/plfe/339/rpc
+[+] Login successful
+[+] Username: papinenianurag
+[+] You started playing Pokemon Go on: 2016-07-20 00:06:28
+[+] POKECOIN: 0
+[+] STARDUST: 0
+[-] looping: step 1 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3358774
+Completed: 1.0%
+[-] looping: step 2 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3358774
+Completed: 2.0%
+[-] looping: step 3 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3333774
+Completed: 3.0%
+[-] looping: step 4 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3333774
+Completed: 4.0%
+[-] looping: step 5 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3333774
+Completed: 5.0%
+[-] looping: step 6 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3358774
+Completed: 6.0%
+[-] looping: step 7 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3383774
+Completed: 7.0%
+[-] looping: step 8 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3383774
+Completed: 8.0%
+[-] looping: step 9 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3383774
+Completed: 9.0%
+[-] looping: step 10 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3383774
+Completed: 10.0%
+[-] looping: step 11 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3358774
+Completed: 11.0%
+[-] looping: step 12 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3333774
+Completed: 12.0%
+[-] looping: step 13 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3308774
+Completed: 13.0%
+[-] looping: step 14 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3308774
+Completed: 14.0%
+[-] looping: step 15 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3308774
+Completed: 15.0%
+[-] looping: step 16 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3308774
+Completed: 16.0%
+[-] looping: step 17 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3308774
+Completed: 17.0%
+[-] looping: step 18 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3333774
+Completed: 18.0%
+[-] looping: step 19 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3358774
+Completed: 19.0%
+[-] looping: step 20 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3383774
+Completed: 20.0%
+[-] looping: step 21 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3408774
+Completed: 21.0%
+[-] looping: step 22 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3408774
+Completed: 22.0%
+[-] looping: step 23 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3408774
+Completed: 23.0%
+[-] looping: step 24 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3408774
+Completed: 24.0%
+[-] looping: step 25 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3408774
+Completed: 25.0%
+[-] looping: step 26 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3408774
+Completed: 26.0%
+[-] looping: step 27 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3383774
+Completed: 27.0%
+[-] looping: step 28 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3358774
+Completed: 28.0%
+[-] looping: step 29 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3333774
+Completed: 29.0%
+[-] looping: step 30 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3308774
+Completed: 30.0%
+[-] looping: step 31 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3283774
+Completed: 31.0%
+[-] looping: step 32 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3283774
+Completed: 32.0%
+[-] looping: step 33 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3283774
+Completed: 33.0%
+[-] looping: step 34 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3283774
+Completed: 34.0%
+[-] looping: step 35 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3283774
+Completed: 35.0%
+[-] looping: step 36 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3283774
+Completed: 36.0%
+[-] looping: step 37 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3283774
+Completed: 37.0%
+[-] looping: step 38 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3308774
+Completed: 38.0%
+[-] looping: step 39 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3333774
+Completed: 39.0%
+[-] looping: step 40 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3358774
+Completed: 40.0%
+[-] looping: step 41 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3383774
+Completed: 41.0%
+[-] looping: step 42 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3408774
+Completed: 42.0%
+[-] looping: step 43 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3433774
+Completed: 43.0%
+[-] looping: step 44 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3433774
+Completed: 44.0%
+[-] looping: step 45 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3433774
+Completed: 45.0%
+[-] looping: step 46 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3433774
+Completed: 46.0%
+[-] looping: step 47 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3433774
+Completed: 47.0%
+[-] looping: step 48 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3433774
+Completed: 48.0%
+[-] looping: step 49 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3433774
+Completed: 49.0%
+[-] looping: step 50 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3433774
+Completed: 50.0%
+[-] looping: step 51 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3408774
+Completed: 51.0%
+[-] looping: step 52 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3383774
+Completed: 52.0%
+[-] looping: step 53 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3358774
+Completed: 53.0%
+[-] looping: step 54 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3333774
+Completed: 54.0%
+[-] looping: step 55 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3308774
+Completed: 55.0%
+[-] looping: step 56 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3283774
+Completed: 56.0%
+[-] looping: step 57 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3258774
+Completed: 57.0%
+[-] looping: step 58 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3258774
+Completed: 58.0%
+[-] looping: step 59 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3258774
+Completed: 59.0%
+[-] looping: step 60 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3258774
+Completed: 60.0%
+[-] looping: step 61 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3258774
+Completed: 61.0%
+[-] looping: step 62 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3258774
+Completed: 62.0%
+[-] looping: step 63 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3258774
+Completed: 63.0%
+[-] looping: step 64 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3258774
+Completed: 64.0%
+[-] looping: step 65 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3258774
+Completed: 65.0%
+[-] looping: step 66 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3283774
+Completed: 66.0%
+[-] looping: step 67 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3308774
+Completed: 67.0%
+[-] looping: step 68 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3333774
+Completed: 68.0%
+[-] looping: step 69 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3358774
+Completed: 69.0%
+[-] looping: step 70 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3383774
+Completed: 70.0%
+[-] looping: step 71 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3408774
+Completed: 71.0%
+[-] looping: step 72 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3433774
+Completed: 72.0%
+[-] looping: step 73 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3458774
+Completed: 73.0%
+[-] looping: step 74 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3458774
+Completed: 74.0%
+[-] looping: step 75 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3458774
+Completed: 75.0%
+[-] looping: step 76 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3458774
+Completed: 76.0%
+[-] looping: step 77 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3458774
+Completed: 77.0%
+[-] looping: step 78 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3458774
+Completed: 78.0%
+[-] looping: step 79 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3458774
+Completed: 79.0%
+[-] looping: step 80 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3458774
+Completed: 80.0%
+[-] looping: step 81 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3458774
+Completed: 81.0%
+[-] looping: step 82 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3458774
+Completed: 82.0%
+[-] looping: step 83 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3433774
+Completed: 83.0%
+[-] looping: step 84 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3408774
+Completed: 84.0%
+[-] looping: step 85 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3383774
+Completed: 85.0%
+[-] looping: step 86 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3358774
+Completed: 86.0%
+[-] looping: step 87 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3333774
+Completed: 87.0%
+[-] looping: step 88 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3308774
+Completed: 88.0%
+[-] looping: step 89 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3283774
+Completed: 89.0%
+[-] looping: step 90 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3258774
+Completed: 90.0%
+[-] looping: step 91 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3233774
+Completed: 91.0%
+[-] looping: step 92 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3233774
+Completed: 92.0%
+[-] looping: step 93 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3233774
+Completed: 93.0%
+[-] looping: step 94 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3233774
+Completed: 94.0%
+[-] looping: step 95 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3233774
+Completed: 95.0%
+[-] looping: step 96 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3233774
+Completed: 96.0%
+[-] looping: step 97 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3233774
+Completed: 97.0%
+[-] looping: step 98 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3233774
+Completed: 98.0%
+[-] looping: step 99 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3233774
+Completed: 99.0%
+[-] looping: step 100 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3233774
+Completed: 100.0%
+[-] register_background_thread called
+[-] register_background_thread: queueing
+[+] Locale is en
+[+] removing stale pokemon Zubat at 47.611869, -122.334249 from list
+[+] removing stale pokemon Pidgeotto at 47.629196, -122.345304 from list
+[+] removing stale pokemon Jigglypuff at 47.618128, -122.337757 from list
+[+] removing stale pokemon Zubat at 47.611993, -122.326250 from list
+[+] removing stale pokemon Slowpoke at 47.633915, -122.329789 from list
+[+] removing stale pokemon Seel at 47.611930, -122.337589 from list
+[+] removing stale pokemon Eevee at 47.624874, -122.325863 from list
+[+] removing stale pokemon Horsea at 47.619634, -122.340859 from list
+[+] removing stale pokemon Staryu at 47.627931, -122.333012 from list
+[+] removing stale pokemon Zubat at 47.617374, -122.321671 from list
+[+] removing stale pokemon Caterpie at 47.616178, -122.331718 from list
+[+] removing stale pokemon Nidoran♂ at 47.618938, -122.342793 from list
+[+] removing stale pokemon Pidgey at 47.609713, -122.334029 from list
+[+] removing stale pokemon Magikar[-] register_background_thread called
+[-] register_background_thread: not running inside Flask so not starting thread
+Traceback (most recent call last):
+  File "example.py", line 927, in <module>
+    app.run(debug=True, threaded=True, host=args.host, port=args.port)
+  File "/usr/local/lib/python2.7/site-packages/flask/app.py", line 843, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python2.7/site-packages/werkzeug/serving.py", line 677, in run_simple
+    s.bind((hostname, port))
+  File "/usr/lib64/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
+[-] register_background_thread called
+[-] register_background_thread: not running inside Flask so not starting thread
+Traceback (most recent call last):
+  File "example.py", line 927, in <module>
+    app.run(debug=True, threaded=True, host=args.host, port=args.port)
+  File "/usr/local/lib/python2.7/site-packages/flask/app.py", line 843, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python2.7/site-packages/werkzeug/serving.py", line 677, in run_simple
+    s.bind((hostname, port))
+  File "/usr/lib64/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
+p at 47.626635, -122.335222 from list
+[+] removing stale pokemon Shellder at 47.625299, -122.342722 from list
+[+] removing stale pokemon Zubat at 47.619361, -122.340364 from list
+[+] removing stale pokemon Pidgey at 47.613467, -122.345478 from list
+[+] removing stale pokemon Clefairy at 47.622566, -122.325303 from list
+[+] removing stale pokemon Rattata at 47.610767, -122.341005 from list
+[+] removing stale pokemon Zubat at 47.616206, -122.325377 from list
+[+] removing stale pokemon Pidgey at 47.610606, -122.341245 from list
+[+] removing stale pokemon Oddish at 47.616701, -122.325709 from list
+[+] removing stale pokemon Eevee at 47.629121, -122.331410 from list
+[+] removing stale pokemon Weedle at 47.617802, -122.325477 from list
+[+] removing stale pokemon Squirtle at 47.615860, -122.335171 from list
+[+] removing stale pokemon Zubat at 47.626903, -122.326217 from list
+[+] removing stale pokemon Psyduck at 47.629681, -122.339689 from list
+[+] removing stale pokemon Zubat at 47.616379, -122.324558 from list
+[+] removing stale pokemon Jigglypuff at 47.612785, -122.341939 from list
+[+] removing stale pokemon Pidgey at 47.619805, -122.344934 from list
+[+] removing stale pokemon Spearow at 47.612262, -122.343054 from list
+[+] removing stale pokemon Zubat at 47.616423, -122.325505 from list
+[-] looping: step 1 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3358774
+Completed: 1.0%
+[-] looping: step 2 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3358774
+Completed: 2.0%
+[-] looping: step 3 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3333774
+Completed: 3.0%
+[-] looping: step 4 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3333774
+Completed: 4.0%
+[-] looping: step 5 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3333774
+Completed: 5.0%
+[-] looping: step 6 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3358774
+Completed: 6.0%
+[-] looping: step 7 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3383774
+Completed: 7.0%
+[-] looping: step 8 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3383774
+Completed: 8.0%
+[-] looping: step 9 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3383774
+Completed: 9.0%
+[-] looping: step 10 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3383774
+Completed: 10.0%
+[-] looping: step 11 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3358774
+Completed: 11.0%
+[-] looping: step 12 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3333774
+Completed: 12.0%
+[-] looping: step 13 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3308774
+Completed: 13.0%
+[-] looping: step 14 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3308774
+Completed: 14.0%
+[-] looping: step 15 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3308774
+Completed: 15.0%
+[-] looping: step 16 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3308774
+Completed: 16.0%
+[-] looping: step 17 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3308774
+Completed: 17.0%
+[-] looping: step 18 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3333774
+Completed: 18.0%
+[-] looping: step 19 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3358774
+Completed: 19.0%
+[-] looping: step 20 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3383774
+Completed: 20.0%
+[-] looping: step 21 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3408774
+Completed: 21.0%
+[-] looping: step 22 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3408774
+Completed: 22.0%
+[-] looping: step 23 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3408774
+Completed: 23.0%
+[-] looping: step 24 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3408774
+Completed: 24.0%
+[-] looping: step 25 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3408774
+Completed: 25.0%
+[-] looping: step 26 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3408774
+Completed: 26.0%
+[-] looping: step 27 of 100[-] register_background_thread called
+[-] register_background_thread: not running inside Flask so not starting thread
+Traceback (most recent call last):
+  File "example.py", line 927, in <module>
+    app.run(debug=True, threaded=True, host=args.host, port=args.port)
+  File "/usr/local/lib/python2.7/site-packages/flask/app.py", line 843, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python2.7/site-packages/werkzeug/serving.py", line 677, in run_simple
+    s.bind((hostname, port))
+  File "/usr/lib64/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
+
+[+] Searching for Pokemon at location 47.6275132 -122.3383774
+Completed: 27.0%
+[-] looping: step 28 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3358774
+Completed: 28.0%
+[-] looping: step 29 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3333774
+Completed: 29.0%
+[-] looping: step 30 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3308774
+Completed: 30.0%
+[-] looping: step 31 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3283774
+Completed: 31.0%
+[-] looping: step 32 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3283774
+Completed: 32.0%
+[-] looping: step 33 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3283774
+Completed: 33.0%
+[-] looping: step 34 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3283774
+Completed: 34.0%
+[-] looping: step 35 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3283774
+Completed: 35.0%
+[-] looping: step 36 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3283774
+Completed: 36.0%
+[-] looping: step 37 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3283774
+Completed: 37.0%
+[-] looping: step 38 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3308774
+Completed: 38.0%
+[-] looping: step 39 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3333774
+Completed: 39.0%
+[-] looping: step 40 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3358774
+Completed: 40.0%
+[-] looping: step 41 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3383774
+Completed: 41.0%
+[-] looping: step 42 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3408774
+Completed: 42.0%
+[-] looping: step 43 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3433774
+Completed: 43.0%
+[-] looping: step 44 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3433774
+Completed: 44.0%
+[-] looping: step 45 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3433774
+Completed: 45.0%
+[-] looping: step 46 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3433774
+Completed: 46.0%
+[-] looping: step 47 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3433774
+Completed: 47.0%
+[-] looping: step 48 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3433774
+Completed: 48.0%
+[-] looping: step 49 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3433774
+Completed: 49.0%
+[-] looping: step 50 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3433774
+Completed: 50.0%
+[-] looping: step 51 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3408774
+Completed: 51.0%
+[-] looping: step 52 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3383774
+Completed: 52.0%
+[-] looping: step 53 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3358774
+Completed: 53.0%
+[-] looping: step 54 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3333774
+Completed: 54.0%
+[-] looping: step 55 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3308774
+Completed: 55.0%
+[-] looping: step 56 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3283774
+Completed: 56.0%
+[-] looping: step 57 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3258774
+Completed: 57.0%
+[-] looping: step 58 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3258774
+Completed: 58.0%
+[-] looping: step 59 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3258774
+Completed: 59.0%
+[-] looping: step 60 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3258774
+Completed: 60.0%
+[-] looping: step 61 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3258774
+Completed: 61.0%
+[-] looping: step 62 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3258774
+Completed: 62.0%
+[-] looping: step 63 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3258774
+Completed: 63.0%
+[-] looping: step 64 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3258774
+Completed: 64.0%
+[-] looping: step 65 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3258774
+Completed: 65.0%
+[-] looping: step 66 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3283774
+Completed: 66.0%
+[-] looping: step 67 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3308774
+Completed: 67.0%
+[-] looping: step 68 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3333774
+Completed: 68.0%
+[-] looping: step 69 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3358774
+Completed: 69.0%
+[-] looping: step 70 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3383774
+Completed: 70.0%
+[-] looping: step 71 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3408774
+Completed: 71.0%
+[-] looping: step 72 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3433774
+Completed: 72.0%
+[-] looping: step 73 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3458774
+Completed: 73.0%
+[-] looping: step 74 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3458774
+Completed: 74.0%
+[-] looping: step 75 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3458774
+Completed: 75.0%
+[-] looping: step 76 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3458774
+Completed: 76.0%
+[-] looping: step 77 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3458774
+Completed: 77.0%
+[-] looping: step 78 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3458774
+Completed: 78.0%
+[-] looping: step 79 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3458774
+Completed: 79.0%
+[-] looping: step 80 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3458774
+Completed: 80.0%
+[-] looping: step 81 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3458774
+Completed: 81.0%
+[-] looping: step 82 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3458774
+Completed: 82.0%
+[-] looping: step 83 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3433774
+Completed: 83.0%
+[-] looping: step 84 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3408774
+Completed: 84.0%
+[-] looping: step 85 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3383774
+Completed: 85.0%
+[-] looping: step 86 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3358774
+Completed: 86.0%
+[-] looping: step 87 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3333774
+Completed: 87.0%
+[-] looping: step 88 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3308774
+Completed: 88.0%
+[-] looping: step 89 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3283774
+Completed: 89.0%
+[-] looping: step 90 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3258774
+Completed: 90.0%
+[-] looping: step 91 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3233774
+Completed: 91.0%
+[-] looping: step 92 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3233774
+Completed: 92.0%
+[-] looping: step 93 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3233774
+Completed: 93.0%
+[-] looping: step 94 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3233774
+Completed: 94.0%
+[-] looping: step 95 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3233774
+Completed: 95.0%
+[-] looping: step 96 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3233774
+Completed: 96.0%
+[-] looping: step 97 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3233774
+Completed: 97.0%
+[-] looping: step 98 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3233774
+Completed: 98.0%
+[-] looping: step 99 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3233774
+Completed: 99.0%
+[-] looping: step 100 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3233774
+Completed: 100.0%
+[-] register_background_thread called
+[-] register_background_thread: queueing
+[+] Locale is en
+[+] removing stale pokemon Pidgey at 47.618090, -122.331628 from list
+[+] removing stale pokemon Pidgey at 47.627515, -122.320468 from list
+[+] removing stale pokemon Nidoran♀ at 47.632180, -122.327138 from list
+[+] removing stale pokemon Zubat at 47.619308, -122.330209 from list
+[+] removing stale pokemon Golbat at 47.614522, -122.323385 from list
+[+] removing stale pokemon Cubone at 47.627635, -122.340202 from list
+[+] removing stale pokemon Jigglypuff at 47.621743, -122.332266 from list
+[+] removing stale pokemon Electabuzz at 47.624078, -122.329746 from list
+[+] removing stale pokemon Drowzee at 47.613993, -122.332945 from list
+[+] removing stale pokemon Jigglypuff at 47.618128, -122.337757 from list
+[+] removing stale pokemon Horsea at 47.630686, -122.344380 from list
+[+] removing stale pokemon Jigglypuff at 47.618752, -122.326537 from list
+[+] removing stale pokemon Slowpoke at 47.633915, -122.329789 from list
+[+] removing stale pokemon Pidgey at 47.608682, -122.341914 from list
+[+] removing stale pokemon Spearow at 47.611281, -122.324160 from list
+[+] removing stale pokemon Pidgey at 47.610140, -122.334573 from list
+[+] removing stale pokemon Pidgey at 47.614640, -122.346376 from list
+[+] removing stale pokemon Squirtle at 47.621849, -122.323502 from list
+[+] removing stale pokemon Zubat at 47.620847, -122.336467 from list
+[+] removing stale pokemon Pidgey at 47.611258, -122.331841 from list
+[+] removing stale pokemon Caterpie at 47.616178, -122.331718 from list
+[+] removing stale pokemon Zubat at 47.614364, -122.339646 from list
+[+] removing stale pokemon Zubat at 47.608634, -122.333103 from list
+[+] removing stale pokemon Spearow at 47.618905, -122.342899 from list
+[+] removing stale pokemon Pidgey at 47.610596, -122.333669 from list
+[+] removing stale pokemon Poliwag at 47.632628, -122.341210 from list
+[+] removing stale pokemon Squirtle at 47.623267, -122.329605 from list
+[+] removing stale pokemon Zubat at 47.615484, -122.327128 from list
+[+] removing stale pokemon Zubat at 47.612764, -122.336573 from list
+[+] removing stale pokemon Zubat at 47.622382, -122.331596 from list
+[+] removing stale pokemon Rattata at 47.629534, -122.318139 from list
+[+] removing stale pokemon Pidgey at 47.620686, -122.331813 from list
+[+] removing stale pokemon Drowzee at 47.610468, -122.338696 from list
+[+] removing stale pokemon Machop at 47.625870, -122.347158 from list
+[+] removing stale pokemon Horsea at 47.621753, -122.336581 from list
+[+] removing stale pokemon Nidoran♂ at 47.614997, -122.340896 from list
+[+] removing stale pokemon Pidgey at 47.617409, -122.345743 from list
+[+] removing stale pokemon Zubat at 47.609616, -122.342211 from list
+[+] removing stale pokemon Paras at 47.627365, -122.326655 from list
+[+] removing stale pokemon Paras at 47.622088, -122.327365 from list
+[+] removing stale pokemon Drowzee at 47.616575, -122.345128 from list
+[+] removing stale pokemon Geodude at 47.632800, -122.342023 from list
+[+] removing stale pokemon Eevee at 47.615464, -122.342676 from list
+[+] removing stale pokemon Venonat at 47.616999, -122.337806 from list
+[+] removing stale pokemon Spearow at 47.619676, -122.346699 from list
+[+] removing stale pokemon Weedle at 47.620309, -122.330295 from list
+[+] removing stale pokemon Drowzee at 47.632398, -122.346558 from list
+[+] removing stale pokemon Nidoran♀ at 47.627558, -122.332835 from list
+[+] removing stale pokemon Nidoran♂ at 47.618739, -122.340166 from list
+[+] removing stale pokemon Poliwag at 47.626874, -122.337454 from list
+[+] removing stale pokemon Nidoran♀ at 47.617113, -122.322229 from list
+[+] removing stale pokemon Pidgey at 47.619610, -122.346911 from list
+[+] removing stale pokemon Drowzee at 47.621499, -122.323799 from list
+[+] removing stale pokemon Weedle at 47.615883, -122.330750 from list
+[+] removing stale pokemon Koffing at 47.611743, -122.324598 from list
+[+] removing stale pokemon Zubat at 47.610044, -122.342756 from list
+[+] removing stale pokemon Zubat at 47.609001, -122.333569 from list
+[+] removing stale pokemon Zubat at 47.610005, -122.341520 from list
+[+] removing stale pokemon Spearow at 47.619074, -122.330951 from list
+[+] removing stale pokemon Shellder at 47.615730, -122.345092 from list
+[+] removing stale pokemon Zubat at 47.629856, -122.329079 from list
+[+] removing stale pokemon Shellder at 47.627726, -122.327411 from list
+[+] removing stale pokemon Zubat at 47.633740, -122.342031 from list
+[+] removing stale pokemon Magikarp at 47.626802, -122.334692 from list
+[+] removing stale pokemon Magikarp at 47.628320, -122.333952 from list
+[+] removing stale pokemon Zubat at 47.616379, -122.324558 from list
+[+] removing stale pokemon Magikarp at 47.628048, -122.333457 from list
+[+] removing stale pokemon Clefairy at 47.610375, -122.324047 from list
+[+] removing stale pokemon Pidgey at 47.627012, -122.340004 from list
+[+] removing stale pokemon Weedle at 47.628904, -122.331283 from list
+[+] removing stale pokemon Pidgey at 47.625878, -122.340342 from list
+[+] removing stale pokemon Drowzee at 47.612557, -122.342391 from list
+[+] removing stale pokemon Zubat at 47.611841, -122.334066 from list
+[+] removing stale pokemon Eevee at 47.624207, -122.323087 from list
+[-] looping: step 1 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3358774
+Completed: 1.0%
+[-] looping: step 2 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3358774
+Completed: 2.0%
+[-] looping: step 3 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3333774
+Completed: 3.0%
+[-] looping: step 4 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3333774
+Completed: 4.0%
+[-] looping: step 5 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3333774
+Completed: 5.0%
+[-] looping: step 6 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3358774
+Completed: 6.0%
+[-] looping: step 7 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3383774
+Completed: 7.0%
+[-] looping: step 8 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3383774
+Completed: 8.0%
+[-] looping: step 9 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3383774
+Completed: 9.0%
+[-] looping: step 10 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3383774
+Completed: 10.0%
+[-] looping: step 11 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3358774
+Completed: 11.0%
+[-] looping: step 12 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3333774
+Completed: 12.0%
+[-] looping: step 13 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3308774
+Completed: 13.0%
+[-] looping: step 14 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3308774
+Completed: 14.0%
+[-] looping: step 15 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3308774
+Completed: 15.0%
+[-] looping: step 16 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3308774
+Completed: 16.0%
+[-] looping: step 17 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3308774
+Completed: 17.0%
+[-] looping: step 18 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3333774
+Completed: 18.0%
+[-] looping: step 19 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3358774
+Completed: 19.0%
+[-] looping: step 20 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3383774
+Completed: 20.0%
+[-] looping: step 21 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3408774
+Completed: 21.0%
+[-] looping: step 22 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3408774
+Completed: 22.0%
+[-] looping: step 23 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3408774
+Completed: 23.0%
+[-] looping: step 24 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3408774
+Completed: 24.0%
+[-] looping: step 25 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3408774
+Completed: 25.0%
+[-] looping: step 26 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3408774
+Completed: 26.0%
+[-] looping: step 27 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3383774
+Completed: 27.0%
+[-] looping: step 28 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3358774
+Completed: 28.0%
+[-] looping: step 29 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3333774
+Completed: 29.0%
+[-] looping: step 30 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3308774
+Completed: 30.0%
+[-] looping: step 31 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3283774
+Completed: 31.0%
+[-] looping: step 32 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3283774
+Completed: 32.0%
+[-] looping: step 33 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3283774
+Completed: 33.0%
+[-] looping: step 34 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3283774
+Completed: 34.0%
+[-] looping: step 35 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3283774
+Completed: 35.0%
+[-] looping: step 36 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3283774
+Completed: 36.0%
+[-] looping: step 37 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3283774
+Completed: 37.0%
+[-] looping: step 38 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3308774
+Completed: 38.0%
+[-] looping: step 39 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3333774
+Completed: 39.0%
+[-] looping: step 40 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3358774
+Completed: 40.0%
+[-] looping: step 41 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3383774
+Completed: 41.0%
+[-] looping: step 42 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3408774
+Completed: 42.0%
+[-] looping: step 43 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3433774
+Completed: 43.0%
+[-] looping: step 44 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3433774
+Completed: 44.0%
+[-] looping: step 45 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3433774
+Completed: 45.0%
+[-] looping: step 46 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3433774
+Completed: 46.0%
+[-] looping: step 47 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3433774
+Completed: 47.0%
+[-] looping: step 48 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3433774
+Completed: 48.0%
+[-] looping: step 49 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3433774
+Completed: 49.0%
+[-] looping: step 50 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3433774
+Completed: 50.0%
+[-] looping: step 51 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3408774
+Completed: 51.0%
+[-] looping: step 52 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3383774
+Completed: 52.0%
+[-] looping: step 53 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3358774
+Completed: 53.0%
+[-] looping: step 54 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3333774
+Completed: 54.0%
+[-] looping: step 55 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3308774
+Completed: 55.0%
+[-] looping: step 56 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3283774
+Completed: 56.0%
+[-] looping: step 57 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3258774
+Completed: 57.0%
+[-] looping: step 58 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3258774
+Completed: 58.0%
+[-] looping: step 59 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3258774
+Completed: 59.0%
+[-] looping: step 60 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3258774
+Completed: 60.0%
+[-] looping: step 61 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3258774
+Completed: 61.0%
+[-] looping: step 62 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3258774
+Completed: 62.0%
+[-] looping: step 63 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3258774
+Completed: 63.0%
+[-] looping: step 64 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3258774
+Completed: 64.0%
+[-] looping: step 65 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3258774
+Completed: 65.0%
+[-] looping: step 66 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3283774
+Completed: 66.0%
+[-] looping: step 67 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3308774
+Completed: 67.0%
+[-] looping: step 68 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3333774
+Completed: 68.0%
+[-] looping: step 69 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3358774
+Completed: 69.0%
+[-] looping: step 70 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3383774
+Completed: 70.0%
+[-] looping: step 71 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3408774
+Completed: 71.0%
+[-] looping: step 72 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3433774
+Completed: 72.0%
+[-] looping: step 73 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3458774
+Completed: 73.0%
+[-] looping: step 74 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3458774
+Completed: 74.0%
+[-] looping: step 75 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3458774
+Completed: 75.0%
+[-] looping: step 76 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3458774
+Completed: 76.0%
+[-] looping: step 77 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3458774
+Completed: 77.0%
+[-] looping: step 78 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3458774
+Completed: 78.0%
+[-] looping: step 79 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3458774
+Completed: 79.0%
+[-] looping: step 80 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3458774
+Completed: 80.0%
+[-] looping: step 81 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3458774
+Completed: 81.0%
+[-] looping: step 82 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3458774
+Completed: 82.0%
+[-] looping: step 83 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3433774
+Completed: 83.0%
+[-] looping: step 84 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3408774
+Completed: 84.0%
+[-] looping: step 85 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3383774
+Completed: 85.0%
+[-] looping: step 86 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3358774
+Completed: 86.0%
+[-] looping: step 87 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3333774
+Completed: 87.0%
+[-] looping: step 88 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3308774
+Completed: 88.0%
+[-] looping: step 89 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3283774
+Completed: 89.0%
+[-] looping: step 90 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3258774
+Completed: 90.0%
+[-] looping: step 91 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3233774
+Completed: 91.0%
+[-] looping: step 92 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3233774
+Completed: 92.0%
+[-] looping: step 93 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3233774
+Completed: 93.0%
+[-] looping: step 94 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3233774
+Completed: 94.0%
+[-] looping: step 95 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3233774
+Completed: 95.0%
+[-] looping: step 96 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3233774
+Completed: 96.0%
+[-] looping: step 97 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3233774
+Completed: 97.0%
+[-] looping: step 98 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3233774
+Completed: 98.0%
+[-] looping: step 99 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3233774
+Completed: 99.0%
+[-] looping: step 100 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3233774
+Completed: 100.0%
+[-] register_background_thread called
+[-] register_background_thread: queueing
+[+] Locale is en
+[+] removing stale pokemon Spearow at 47.610621, -122.346901 from list
+[+] removing stale pokemon Zubat at 47.616886, -122.345227 from list
+[+] removing stale pokemon Spearow at 47.623028, -122.322479 from list
+[+] removing stale pokemon Fearow at 47.609996, -122.332313 from list
+[+] removing stale pokemon Slowpoke at 47.632864, -122.327414 from list
+[+] removing stale pokemon Clefairy at 47.626295, -122.336571 from list
+[+] removing stale pokemon Pidgey at 47.614226, -122.335466 from list
+[+] removing stale pokemon Poliwag at 47.628170, -122.333613 from list
+[+] removing stale pokemon Squirtle at 47.612956, -122.344383 from list
+[+] removing stale pokemon Psyduck at 47.629809, -122.339555 from list
+[+] removing stale pokemon Krabby at 47.621654, -122.327111 from list
+[+] removing stale pokemon Tentacruel at 47.633412, -122.339537 from list
+[+] removing stale pokemon Bellsprout at 47.627896, -122.341276 from list
+[+] removing stale pokemon Venonat at 47.619545, -122.340597 from list
+[+] removing stale pokemon Zubat at 47.631615, -122.344967 from list
+[+] removing stale pokemon Shellder at 47.625015, -122.342806 from list
+[+] removing stale pokemon Nidoran♀ at 47.617257, -122.326119 from list
+[+] removing stale pokemon Clefairy at 47.621649, -122.327400 from list
+[+] removing stale pokemon Spearow at 47.622939, -122.322218 from list
+[+] removing stale pokemon Spearow at 47.609161, -122.339853 from list
+[+] removing stale pokemon Zubat at 47.611370, -122.326052 from list
+[+] removing stale pokemon Weedle at 47.624941, -122.324019 from list
+[+] removing stale pokemon Horsea at 47.633507, -122.339508 from list
+[+] removing stale pokemon Bellsprout at 47.630842, -122.344430 from list
+[+] removing stale pokemon Zubat at 47.614724, -122.345295 from list
+[+] removing stale pokemon Psyduck at 47.632895, -122.340363 from list
+[+] removing stale pokemon Zubat at 47.631881, -122.345752 from list
+[+] removing stale pokemon Drowzee at 47.623362, -122.347233 from list
+[+] removing stale pokemon Pidgey at 47.610152, -122.332363 from list
+[+] removing stale pokemon Zubat at 47.618161, -122.339282 from list
+[+] removing stale pokemon Zubat at 47.615484, -122.327128 from list
+[+] removing stale pokemon Spearow at 47.625852, -122.327106 from list
+[+] removing stale pokemon Spearow at 47.632469, -122.326764 from list
+[+] removing stale pokemon Zubat at 47.608611, -122.340784 from list
+[+] removing stale pokemon Shellder at 47.616067, -122.326090 from list
+[+] removing stale pokemon Golduck at 47.628081, -122.333351 from list
+[+] removing stale pokemon Pidgey at 47.613687, -122.335818 from list
+[+] removing stale pokemon Weedle at 47.629157, -122.344068 from list
+[+] removing stale pokemon Spearow at 47.611274, -122.335866 from list
+[+] removing stale pokemon Spearow at 47.633204, -122.322802 from list
+[+] removing stale pokemon Zubat at 47.609697, -122.323481 from list
+[+] removing stale pokemon Caterpie at 47.632621, -122.346395 from list
+[+] removing stale pokemon Shellder at 47.624262, -122.326717 from list
+[+] removing stale pokemon Weedle at 47.608897, -122.322761 from list
+[+] removing stale pokemon Caterpie at 47.627467, -122.343995 from list
+[+] removing stale pokemon Zubat at 47.620831, -122.332442 from list
+[+] removing stale pokemon Drowzee at 47.622061, -122.323919 from list
+[+] removing stale pokemon Pidgey at 47.610190, -122.338491 from list
+[+] removing stale pokemon Zubat at 47.616554, -122.341392 from list
+[+] removing stale pokemon Drowzee at 47.613621, -122.329506 from list
+[+] removing stale pokemon Machop at 47.624429, -122.348738 from list
+[+] removing stale pokemon Nidoran♂ at 47.615761, -122.333857 from list
+[+] removing stale pokemon Drowzee at 47.620040, -122.340930 from list
+[+] removing stale pokemon Spearow at 47.612092, -122.334087 from list
+[+] removing stale pokemon Magikarp at 47.630826, -122.340403 from list
+[+] removing stale pokemon Pidgeotto at 47.612975, -122.335359 from list
+[+] removing stale pokemon Venonat at 47.618961, -122.341635 from list
+[+] removing stale pokemon Nidoran♂ at 47.626953, -122.326874 from list
+[+] removing stale pokemon Magikarp at 47.624974, -122.322282 from list
+[+] removing stale pokemon Drowzee at 47.614383, -122.328991 from list
+[+] removing stale pokemon Zubat at 47.609962, -122.338943 from list
+[+] removing stale pokemon Weedle at 47.612523, -122.344128 from list
+[+] removing stale pokemon Weedle at 47.614305, -122.324889 from list
+[+] removing stale pokemon Drowzee at 47.619464, -122.325365 from list
+[+] removing stale pokemon Magikarp at 47.623616, -122.335834 from list
+[+] removing stale pokemon Drowzee at 47.617464, -122.346110 from list
+[+] removing stale pokemon Kakuna at 47.621163, -122.337908 from list
+[+] removing stale pokemon Zubat at 47.616379, -122.324558 from list
+[+] removing stale pokemon Magikarp at 47.627986, -122.333380 from list
+[+] removing stale pokemon Magikarp at 47.628048, -122.333457 from list
+[+] removing stale pokemon Magnemite at 47.609896, -122.332631 from list
+[+] removing stale pokemon Drowzee at 47.627686, -122.332701 from list
+[+] removing stale pokemon Psyduck at 47.632586, -122.327209 from list
+[+] removing stale pokemon Nidoran♂ at 47.619318, -122.334524 from list
+[+] removing stale pokemon Magikarp at 47.627113, -122.336423 from list
+[+] removing stale pokemon Drowzee at 47.612557, -122.342391 from list
+[+] removing stale pokemon Nidoran♀ at 47.611403, -122.332470 from list
+[+] removing stale pokemon Pidgey at 47.621432, -122.324010 from list
+[-] looping: step 1 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3358774
+Completed: 1.0%
+[-] looping: step 2 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3358774
+Completed: 2.0%
+[-] looping: step 3 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3333774
+Completed: 3.0%
+[-] looping: step 4 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3333774
+Completed: 4.0%
+[-] looping: step 5 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3333774
+Completed: 5.0%
+[-] looping: step 6 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3358774
+Completed: 6.0%
+[-] looping: step 7 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3383774
+Completed: 7.0%
+[-] looping: step 8 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3383774
+Completed: 8.0%
+[-] looping: step 9 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3383774
+Completed: 9.0%
+[-] looping: step 10 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3383774
+Completed: 10.0%
+[-] looping: step 11 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3358774
+Completed: 11.0%
+[-] looping: step 12 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3333774
+Completed: 12.0%
+[-] looping: step 13 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3308774
+Completed: 13.0%
+[-] looping: step 14 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3308774
+Completed: 14.0%
+[-] looping: step 15 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3308774
+Completed: 15.0%
+[-] looping: step 16 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3308774
+Completed: 16.0%
+[-] looping: step 17 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3308774
+Completed: 17.0%
+[-] looping: step 18 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3333774
+Completed: 18.0%
+[-] looping: step 19 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3358774
+Completed: 19.0%
+[-] looping: step 20 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3383774
+Completed: 20.0%
+[-] looping: step 21 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3408774
+Completed: 21.0%
+[-] looping: step 22 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3408774
+Completed: 22.0%
+[-] looping: step 23 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3408774
+Completed: 23.0%
+[-] looping: step 24 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3408774
+Completed: 24.0%
+[-] looping: step 25 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3408774
+Completed: 25.0%
+[-] looping: step 26 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3408774
+Completed: 26.0%
+[-] looping: step 27 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3383774
+Completed: 27.0%
+[-] looping: step 28 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3358774
+Completed: 28.0%
+[-] looping: step 29 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3333774
+Completed: 29.0%
+[-] looping: step 30 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3308774
+Completed: 30.0%
+[-] looping: step 31 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3283774
+Completed: 31.0%
+[-] looping: step 32 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3283774
+Completed: 32.0%
+[-] looping: step 33 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3283774
+Completed: 33.0%
+[-] looping: step 34 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3283774
+Completed: 34.0%
+[-] looping: step 35 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3283774
+Completed: 35.0%
+[-] looping: step 36 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3283774
+Completed: 36.0%
+[-] looping: step 37 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3283774
+Completed: 37.0%
+[-] looping: step 38 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3308774
+Completed: 38.0%
+[-] looping: step 39 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3333774
+Completed: 39.0%
+[-] looping: step 40 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3358774
+Completed: 40.0%
+[-] looping: step 41 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3383774
+Completed: 41.0%
+[-] looping: step 42 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3408774
+Completed: 42.0%
+[-] looping: step 43 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3433774
+Completed: 43.0%
+[-] looping: step 44 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3433774
+Completed: 44.0%
+[-] looping: step 45 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3433774
+Completed: 45.0%
+[-] looping: step 46 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3433774
+Completed: 46.0%
+[-] looping: step 47 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3433774
+Completed: 47.0%
+[-] looping: step 48 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3433774
+Completed: 48.0%
+[-] looping: step 49 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3433774
+Completed: 49.0%
+[-] looping: step 50 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3433774
+Completed: 50.0%
+[-] looping: step 51 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3408774
+Completed: 51.0%
+[-] looping: step 52 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3383774
+Completed: 52.0%
+[-] looping: step 53 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3358774
+Completed: 53.0%
+[-] looping: step 54 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3333774
+Completed: 54.0%
+[-] looping: step 55 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3308774
+Completed: 55.0%
+[-] looping: step 56 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3283774
+Completed: 56.0%
+[-] looping: step 57 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3258774
+Completed: 57.0%
+[-] looping: step 58 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3258774
+Completed: 58.0%
+[-] looping: step 59 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3258774
+Completed: 59.0%
+[-] looping: step 60 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3258774
+Completed: 60.0%
+[-] looping: step 61 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3258774
+Completed: 61.0%
+[-] looping: step 62 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3258774
+Completed: 62.0%
+[-] looping: step 63 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3258774
+Completed: 63.0%
+[-] looping: step 64 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3258774
+Completed: 64.0%
+[-] looping: step 65 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3258774
+Completed: 65.0%
+[-] looping: step 66 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3283774
+Completed: 66.0%
+[-] looping: step 67 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3308774
+Completed: 67.0%
+[-] looping: step 68 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3333774
+Completed: 68.0%
+[-] looping: step 69 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3358774
+Completed: 69.0%
+[-] looping: step 70 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3383774
+Completed: 70.0%
+[-] looping: step 71 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3408774
+Completed: 71.0%
+[-] looping: step 72 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3433774
+Completed: 72.0%
+[-] looping: step 73 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3458774
+Completed: 73.0%
+[-] looping: step 74 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3458774
+Completed: 74.0%
+[-] looping: step 75 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3458774
+Completed: 75.0%
+[-] looping: step 76 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3458774
+Completed: 76.0%
+[-] looping: step 77 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3458774
+Completed: 77.0%
+[-] looping: step 78 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3458774
+Completed: 78.0%
+[-] looping: step 79 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3458774
+Completed: 79.0%
+[-] looping: step 80 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3458774
+Completed: 80.0%
+[-] looping: step 81 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3458774
+Completed: 81.0%
+[-] looping: step 82 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3458774
+Completed: 82.0%
+[-] looping: step 83 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3433774
+Completed: 83.0%
+[-] looping: step 84 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3408774
+Completed: 84.0%
+[-] looping: step 85 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3383774
+Completed: 85.0%
+[-] looping: step 86 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3358774
+Completed: 86.0%
+[-] looping: step 87 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3333774
+Completed: 87.0%
+[-] looping: step 88 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3308774
+Completed: 88.0%
+[-] looping: step 89 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3283774
+Completed: 89.0%
+[-] looping: step 90 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3258774
+Completed: 90.0%
+[-] looping: step 91 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3233774
+Completed: 91.0%
+[-] looping: step 92 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3233774
+Completed: 92.0%
+[-] looping: step 93 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3233774
+Completed: 93.0%
+[-] looping: step 94 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3233774
+Completed: 94.0%
+[-] looping: step 95 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3233774
+Completed: 95.0%
+[-] looping: step 96 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3233774
+Completed: 96.0%
+[-] looping: step 97 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3233774
+Completed: 97.0%
+[-] looping: step 98 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3233774
+Completed: 98.0%
+[-] looping: step 99 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3233774
+Completed: 99.0%
+[-] looping: step 100 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3233774
+Completed: 100.0%
+[-] register_background_thread called
+[-] register_background_thread: queueing
+[+] Locale is en
+[+] removing stale pokemon Zubat at 47.615703, -122.343277 from list
+[+] removing stale pokemon Zubat at 47.619537, -122.324864 from list
+[+] removing stale pokemon Zubat at 47.614707, -122.346164 from list
+[+] removing stale pokemon Kingler at 47.627067, -122.340371 from list
+[+] removing stale pokemon Drowzee at 47.620047, -122.330852 from list
+[+] removing stale pokemon Weedle at 47.618355, -122.340568 from list
+[+] removing stale pokemon Zubat at 47.611604, -122.323680 from list
+[+] removing stale pokemon Nidoran♀ at 47.619209, -122.324002 from list
+[+] removing stale pokemon Drowzee at 47.622272, -122.322704 from list
+[+] removing stale pokemon Drowzee at 47.616062, -122.326380 from list
+[+] removing stale pokemon Exeggcute at 47.633738, -122.324370 from list
+[+] removing stale pokemon Zubat at 47.617606, -122.335610 from list
+[+] removing stale pokemon Gastly at 47.635322, -122.325049 from list
+[+] removing stale pokemon Poliwag at 47.629238, -122.331855 from list
+[+] removing stale pokemon Spearow at 47.630096, -122.347339 from list
+[+] removing stale pokemon Drowzee at 47.609533, -122.341661 from list
+[+] removing stale pokemon Shellder at 47.625015, -122.342806 from list
+[+] removing stale pokemon Nidoran♂ at 47.614666, -122.332169 from list
+[+] removing stale pokemon Zubat at 47.617872, -122.339656 from list
+[+] removing stale pokemon Drowzee at 47.625661, -122.340215 from list
+[+] removing stale pokemon Nidoran♂ at 47.633794, -122.347294 from list
+[+] removing stale pokemon Drowzee at 47.623076, -122.336187 from list
+[+] removing stale pokemon Nidoran♀ at 47.620187, -122.321983 from list
+[+] removing stale pokemon Zubat at 47.614663, -122.345218 from list
+[+] removing stale pokemon Zubat at 47.610756, -122.341584 from list
+[+] removing stale pokemon Zubat at 47.608869, -122.322577 from list
+[+] removing stale pokemon Clefairy at 47.610352, -122.330097 from list
+[+] removing stale pokemon Drowzee at 47.623362, -122.347233 from list
+[+] removing stale pokemon Shellder at 47.617507, -122.326141 from list
+[+] removing stale pokemon Magikarp at 47.622182, -122.330600 from list
+[+] removing stale pokemon Weedle at 47.620019, -122.332300 from list
+[+] removing stale pokemon Krabby at 47.608890, -122.334466 from list
+[+] removing stale pokemon Golbat at 47.610884, -122.341450 from list
+[+] removing stale pokemon Zubat at 47.615430, -122.342782 from list
+[+] removing stale pokemon Zubat at 47.615484, -122.327128 from list
+[+] removing stale pokemon Krabby at 47.613058, -122.335910 from list
+[+] removing stale pokemon Zubat at 47.613253, -122.335564 from list
+[+] removing stale pokemon Pidgey at 47.620275, -122.330401 from list
+[+] removing stale pokemon Pidgey at 47.615061, -122.326295 from list
+[+] removing stale pokemon Drowzee at 47.617046, -122.327334 from list
+[+] removing stale pokemon Seel at 47.613320, -122.335352 from list
+[+] removing stale pokemon Pidgey at 47.614394, -122.325150 from list
+[+] removing stale pokemon Weedle at 47.615149, -122.334711 from list
+[+] removing stale pokemon Spearow at 47.611843, -122.324280 from list
+[+] removing stale pokemon Zubat at 47.612413, -122.336869 from list
+[+] removing stale pokemon Drowzee at 47.620552, -122.337131 from list
+[+] removing stale pokemon Drowzee at 47.620481, -122.331107 from list
+[+] removing stale pokemon Rhyhorn at 47.611645, -122.342567 from list
+[+] removing stale pokemon Rattata at 47.623673, -122.326413 from list
+[+] removing stale pokemon Venonat at 47.618772, -122.341691 from list
+[+] removing stale pokemon Pidgey at 47.611684, -122.342171 from list
+[+] removing stale pokemon Zubat at 47.627515, -122.326994 from list
+[+] removing stale pokemon Pidgey at 47.626931, -122.326401 from list
+[+] removing stale pokemon Diglett at 47.633350, -122.344354 from list
+[+] removing stale pokemon Pidgey at 47.621647, -122.338820 from list
+[+] removing stale pokemon Bellsprout at 47.624546, -122.325001 from list
+[+] removing stale pokemon Pidgey at 47.627753, -122.330858 from list
+[+] removing stale pokemon Cubone at 47.614379, -122.345302 from list
+[+] removing stale pokemon Magikarp at 47.633481, -122.327902 from list
+[+] removing stale pokemon Pidgey at 47.615610, -122.335149 from list
+[+] removing stale pokemon Pidgey at 47.629094, -122.329595 from list
+[+] removing stale pokemon Pidgey at 47.610146, -122.332652 from list
+[+] removing stale pokemon Krabby at 47.631192, -122.344133 from list
+[+] removing stale pokemon Jynx at 47.619270, -122.325711 from list
+[+] removing stale pokemon Pidgey at 47.610492, -122.324491 from list
+[+] removing stale pokemon Gastly at 47.614799, -122.331745 from list
+[+] removing stale pokemon Zubat at 47.619504, -122.345887 from list
+[+] removing stale pokemon Eevee at 47.631213, -122.320421 from list
+[+] removing stale pokemon Poliwag at 47.622121, -122.330522 from list
+[+] removing stale pokemon Zubat at 47.613103, -122.336856 from list
+[+] removing stale pokemon Magikarp at 47.627692, -122.334043 from list
+[+] removing stale pokemon Spearow at 47.623493, -122.335678 from list
+[+] removing stale pokemon Goldeen at 47.627958, -122.336459 from list
+[+] removing stale pokemon Gastly at 47.614483, -122.327043 from list
+[+] removing stale pokemon Zubat at 47.610830, -122.332928 from list
+[+] removing stale pokemon Pidgey at 47.625635, -122.326979 from list
+[+] removing stale pokemon Zubat at 47.614100, -122.348359 from list
+[+] removing stale pokemon Krabby at 47.613960, -122.326527 from list
+[+] removing stale pokemon Weedle at 47.618668, -122.335773 from list
+[+] removing stale pokemon Venonat at 47.609890, -122.334551 from list
+[+] removing stale pokemon Spearow at 47.608560, -122.343389 from list
+[+] removing stale pokemon Spearow at 47.629841, -122.342712 from list
+[+] removing stale pokemon Tentacool at 47.610909, -122.348158 from list
+[+] removing stale pokemon Goldeen at 47.627976, -122.332327 from list
+[+] removing stale pokemon Zubat at 47.621787, -122.333212 from list
+[-] looping: step 1 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3358774
+Completed: 1.0%
+[-] looping: step 2 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3358774
+Completed: 2.0%
+[-] looping: step 3 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3333774
+Completed: 3.0%
+[-] looping: step 4 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3333774
+Completed: 4.0%
+[-] looping: step 5 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3333774
+Completed: 5.0%
+[-] looping: step 6 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3358774
+Completed: 6.0%
+[-] looping: step 7 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3383774
+Completed: 7.0%
+[-] looping: step 8 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3383774
+Completed: 8.0%
+[-] looping: step 9 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3383774
+Completed: 9.0%
+[-] looping: step 10 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3383774
+Completed: 10.0%
+[-] looping: step 11 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3358774
+Completed: 11.0%
+[-] looping: step 12 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3333774
+Completed: 12.0%
+[-] looping: step 13 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3308774
+Completed: 13.0%
+[-] looping: step 14 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3308774
+Completed: 14.0%
+[-] looping: step 15 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3308774
+Completed: 15.0%
+[-] looping: step 16 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3308774
+Completed: 16.0%
+[-] looping: step 17 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3308774
+Completed: 17.0%
+[-] looping: step 18 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3333774
+Completed: 18.0%
+[-] looping: step 19 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3358774
+Completed: 19.0%
+[-] looping: step 20 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3383774
+Completed: 20.0%
+[-] looping: step 21 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3408774
+Completed: 21.0%
+[-] looping: step 22 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3408774
+Completed: 22.0%
+[-] looping: step 23 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3408774
+Completed: 23.0%
+[-] looping: step 24 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3408774
+Completed: 24.0%
+[-] looping: step 25 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3408774
+Completed: 25.0%
+[-] looping: step 26 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3408774
+Completed: 26.0%
+[-] looping: step 27 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3383774
+Completed: 27.0%
+[-] looping: step 28 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3358774
+Completed: 28.0%
+[-] looping: step 29 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3333774
+Completed: 29.0%
+[-] looping: step 30 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3308774
+Completed: 30.0%
+[-] looping: step 31 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3283774
+Completed: 31.0%
+[-] looping: step 32 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3283774
+Completed: 32.0%
+[-] looping: step 33 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3283774
+Completed: 33.0%
+[-] looping: step 34 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3283774
+Completed: 34.0%
+[-] looping: step 35 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3283774
+Completed: 35.0%
+[-] looping: step 36 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3283774
+Completed: 36.0%
+[-] looping: step 37 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3283774
+Completed: 37.0%
+[-] looping: step 38 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3308774
+Completed: 38.0%
+[-] looping: step 39 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3333774
+Completed: 39.0%
+[-] looping: step 40 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3358774
+Completed: 40.0%
+[-] looping: step 41 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3383774
+Completed: 41.0%
+[-] looping: step 42 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3408774
+Completed: 42.0%
+[-] looping: step 43 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3433774
+Completed: 43.0%
+[-] looping: step 44 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3433774
+Completed: 44.0%
+[-] looping: step 45 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3433774
+Completed: 45.0%
+[-] looping: step 46 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3433774
+Completed: 46.0%
+[-] looping: step 47 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3433774
+Completed: 47.0%
+[-] looping: step 48 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3433774
+Completed: 48.0%
+[-] looping: step 49 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3433774
+Completed: 49.0%
+[-] looping: step 50 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3433774
+Completed: 50.0%
+[-] looping: step 51 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3408774
+Completed: 51.0%
+[-] looping: step 52 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3383774
+Completed: 52.0%
+[-] looping: step 53 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3358774
+Completed: 53.0%
+[-] looping: step 54 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3333774
+Completed: 54.0%
+[-] looping: step 55 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3308774
+Completed: 55.0%
+[-] looping: step 56 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3283774
+Completed: 56.0%
+[-] looping: step 57 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3258774
+Completed: 57.0%
+[-] looping: step 58 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3258774
+Completed: 58.0%
+[-] looping: step 59 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3258774
+Completed: 59.0%
+[-] looping: step 60 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3258774
+Completed: 60.0%
+[-] looping: step 61 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3258774
+Completed: 61.0%
+[-] looping: step 62 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3258774
+Completed: 62.0%
+[-] looping: step 63 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3258774
+Completed: 63.0%
+[-] looping: step 64 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3258774
+Completed: 64.0%
+[-] looping: step 65 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3258774
+Completed: 65.0%
+[-] looping: step 66 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3283774
+Completed: 66.0%
+[-] looping: step 67 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3308774
+Completed: 67.0%
+[-] looping: step 68 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3333774
+Completed: 68.0%
+[-] looping: step 69 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3358774
+Completed: 69.0%
+[-] looping: step 70 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3383774
+Completed: 70.0%
+[-] looping: step 71 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3408774
+Completed: 71.0%
+[-] looping: step 72 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3433774
+Completed: 72.0%
+[-] looping: step 73 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3458774
+Completed: 73.0%
+[-] looping: step 74 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3458774
+Completed: 74.0%
+[-] looping: step 75 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3458774
+Completed: 75.0%
+[-] looping: step 76 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3458774
+Completed: 76.0%
+[-] looping: step 77 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3458774
+Completed: 77.0%
+[-] looping: step 78 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3458774
+Completed: 78.0%
+[-] looping: step 79 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3458774
+Completed: 79.0%
+[-] looping: step 80 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3458774
+Completed: 80.0%
+[-] looping: step 81 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3458774
+Completed: 81.0%
+[-] looping: step 82 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3458774
+Completed: 82.0%
+[-] looping: step 83 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3433774
+Completed: 83.0%
+[-] looping: step 84 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3408774
+Completed: 84.0%
+[-] looping: step 85 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3383774
+Completed: 85.0%
+[-] looping: step 86 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3358774
+Completed: 86.0%
+[-] looping: step 87 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3333774
+Completed: 87.0%
+[-] looping: step 88 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3308774
+Completed: 88.0%
+[-] looping: step 89 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3283774
+Completed: 89.0%
+[-] looping: step 90 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3258774
+Completed: 90.0%
+[-] looping: step 91 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3233774
+Completed: 91.0%
+[-] looping: step 92 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3233774
+Completed: 92.0%
+[-] looping: step 93 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3233774
+Completed: 93.0%
+[-] looping: step 94 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3233774
+Completed: 94.0%
+[-] looping: step 95 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3233774
+Completed: 95.0%
+[-] looping: step 96 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3233774
+Completed: 96.0%
+[-] looping: step 97 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3233774
+Completed: 97.0%
+[-] looping: step 98 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3233774
+Completed: 98.0%
+[-] looping: step 99 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3233774
+Completed: 99.0%
+[-] looping: step 100 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3233774
+Completed: 100.0%
+[-] register_background_thread called
+[-] register_background_thread: queueing
+[+] Locale is en
+[+] removing stale pokemon Weedle at 47.612141, -122.338006 from list
+[+] removing stale pokemon Drowzee at 47.620047, -122.330852 from list
+[+] removing stale pokemon Zubat at 47.624876, -122.341888 from list
+[+] removing stale pokemon Paras at 47.626524, -122.331224 from list
+[+] removing stale pokemon Zubat at 47.622831, -122.339138 from list
+[+] removing stale pokemon Pidgey at 47.618684, -122.338167 from list
+[+] removing stale pokemon Jigglypuff at 47.618128, -122.337757 from list
+[+] removing stale pokemon Gastly at 47.622971, -122.336794 from list
+[+] removing stale pokemon Golbat at 47.613184, -122.345562 from list
+[+] removing stale pokemon Weedle at 47.617769, -122.325583 from list
+[+] removing stale pokemon Zubat at 47.624154, -122.338744 from list
+[+] removing stale pokemon Zubat at 47.609561, -122.341844 from list
+[+] removing stale pokemon Golbat at 47.617140, -122.325674 from list
+[+] removing stale pokemon Shellder at 47.625015, -122.342806 from list
+[+] removing stale pokemon Zubat at 47.625458, -122.321562 from list
+[+] removing stale pokemon Weedle at 47.613427, -122.328221 from list
+[+] removing stale pokemon Nidoran♀ at 47.622254, -122.334992 from list
+[+] removing stale pokemon Magikarp at 47.626707, -122.336352 from list
+[+] removing stale pokemon Rattata at 47.616751, -122.324735 from list
+[+] removing stale pokemon Zubat at 47.627726, -122.330674 from list
+[+] removing stale pokemon Spearow at 47.620587, -122.325606 from list
+[+] removing stale pokemon Pidgey at 47.630725, -122.343984 from list
+[+] removing stale pokemon Pidgey at 47.622828, -122.323114 from list
+[+] removing stale pokemon Drowzee at 47.626995, -122.339241 from list
+[+] removing stale pokemon Weedle at 47.614317, -122.322679 from list
+[+] removing stale pokemon Spearow at 47.629511, -122.329086 from list
+[+] removing stale pokemon Nidoran♀ at 47.626308, -122.327834 from list
+[+] removing stale pokemon Psyduck at 47.630530, -122.345962 from list
+[+] removing stale pokemon Zubat at 47.612010, -122.320489 from list
+[+] removing stale pokemon Zubat at 47.611245, -122.340575 from list
+[+] removing stale pokemon Seel at 47.622527, -122.327330 from list
+[+] removing stale pokemon Drowzee at 47.620481, -122.329476 from list
+[+] removing stale pokemon Spearow at 47.631286, -122.347369 from list
+[+] removing stale pokemon Caterpie at 47.630696, -122.347064 from list
+[+] removing stale pokemon Weedle at 47.619881, -122.324857 from list
+[+] removing stale pokemon Zubat at 47.629672, -122.328846 from list
+[+] removing stale pokemon Zubat at 47.622010, -122.329787 from list
+[+] removing stale pokemon Caterpie at 47.630190, -122.347311 from list
+[+] removing stale pokemon Zubat at 47.622213, -122.341913 from list
+[+] removing stale pokemon Magikarp at 47.630339, -122.329991 from list
+[+] removing stale pokemon Krabby at 47.630342, -122.342755 from list
+[+] removing stale pokemon Venonat at 47.618772, -122.341691 from list
+[+] removing stale pokemon Zubat at 47.615940, -122.326224 from list
+[+] removing stale pokemon Zubat at 47.617896, -122.331974 from list
+[+] removing stale pokemon Slowpoke at 47.633915, -122.329789 from list
+[+] removing stale pokemon Nidoran♂ at 47.626477, -122.344962 from list
+[+] removing stale pokemon Caterpie at 47.616178, -122.331718 from list
+[+] removing stale pokemon Meowth at 47.613223, -122.343536 from list
+[+] removing stale pokemon Goldeen at 47.632260, -122.344007 from list
+[+] removing stale pokemon Zubat at 47.618207, -122.330441 from list
+[+] removing stale pokemon Nidoran♀ at 47.611177, -122.347311 from list
+[+] removing stale pokemon Zubat at 47.608507, -122.333237 from list
+[+] removing stale pokemon Zubat at 47.633278, -122.341592 from list
+[+] removing stale pokemon Zubat at 47.625770, -122.345844 from list
+[+] removing stale pokemon Horsea at 47.626775, -122.329614 from list
+[+] removing stale pokemon Zubat at 47.613062, -122.345407 from list
+[+] removing stale pokemon Rhyhorn at 47.610349, -122.346406 from list
+[+] removing stale pokemon Weedle at 47.613110, -122.321888 from list
+[+] removing stale pokemon Pidgey at 47.612603, -122.333551 from list
+[+] removing stale pokemon Caterpie at 47.614962, -122.345896 from list
+[+] removing stale pokemon Weedle at 47.631320, -122.343999 from list
+[+] removing stale pokemon Spearow at 47.620353, -122.329610 from list
+[+] removing stale pokemon Spearow at 47.620503, -122.331580 from list
+[+] removing stale pokemon Venonat at 47.627698, -122.327228 from list
+[+] removing stale pokemon Zubat at 47.616658, -122.347310 from list
+[+] removing stale pokemon Drowzee at 47.623362, -122.347233 from list
+[+] removing stale pokemon Zubat at 47.617832, -122.343314 from list
+[+] removing stale pokemon Venonat at 47.630290, -122.321176 from list
+[+] removing stale pokemon Drowzee at 47.615182, -122.336236 from list
+[+] removing stale pokemon Pidgey at 47.614900, -122.326534 from list
+[+] removing stale pokemon Pidgey at 47.614324, -122.341673 from list
+[+] removing stale pokemon Staryu at 47.630923, -122.328953 from list
+[+] removing stale pokemon Venonat at 47.611780, -122.333988 from list
+[-] looping: step 1 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3358774
+Completed: 1.0%
+[-] looping: step 2 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3358774
+Completed: 2.0%
+[-] looping: step 3 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3333774
+Completed: 3.0%
+[-] looping: step 4 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3333774
+Completed: 4.0%
+[-] looping: step 5 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3333774
+Completed: 5.0%
+[-] looping: step 6 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3358774
+Completed: 6.0%
+[-] looping: step 7 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3383774
+Completed: 7.0%
+[-] looping: step 8 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3383774
+Completed: 8.0%
+[-] looping: step 9 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3383774
+Completed: 9.0%
+[-] looping: step 10 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3383774
+Completed: 10.0%
+[-] looping: step 11 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3358774
+Completed: 11.0%
+[-] looping: step 12 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3333774
+Completed: 12.0%
+[-] looping: step 13 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3308774
+Completed: 13.0%
+[-] looping: step 14 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3308774
+Completed: 14.0%
+[-] looping: step 15 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3308774
+Completed: 15.0%
+[-] looping: step 16 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3308774
+Completed: 16.0%
+[-] looping: step 17 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3308774
+Completed: 17.0%
+[-] looping: step 18 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3333774
+Completed: 18.0%
+[-] looping: step 19 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3358774
+Completed: 19.0%
+[-] looping: step 20 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3383774
+Completed: 20.0%
+[-] looping: step 21 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3408774
+Completed: 21.0%
+[-] looping: step 22 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3408774
+Completed: 22.0%
+[-] looping: step 23 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3408774
+Completed: 23.0%
+[-] looping: step 24 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3408774
+Completed: 24.0%
+[-] looping: step 25 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3408774
+Completed: 25.0%
+[-] looping: step 26 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3408774
+Completed: 26.0%
+[-] looping: step 27 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3383774
+Completed: 27.0%
+[-] looping: step 28 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3358774
+Completed: 28.0%
+[-] looping: step 29 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3333774
+Completed: 29.0%
+[-] looping: step 30 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3308774
+Completed: 30.0%
+[-] looping: step 31 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3283774
+Completed: 31.0%
+[-] looping: step 32 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3283774
+Completed: 32.0%
+[-] looping: step 33 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3283774
+Completed: 33.0%
+[-] looping: step 34 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3283774
+Completed: 34.0%
+[-] looping: step 35 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3283774
+Completed: 35.0%
+[-] looping: step 36 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3283774
+Completed: 36.0%
+[-] looping: step 37 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3283774
+Completed: 37.0%
+[-] looping: step 38 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3308774
+Completed: 38.0%
+[-] looping: step 39 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3333774
+Completed: 39.0%
+[-] looping: step 40 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3358774
+Completed: 40.0%
+[-] looping: step 41 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3383774
+Completed: 41.0%
+[-] looping: step 42 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3408774
+Completed: 42.0%
+[-] looping: step 43 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3433774
+Completed: 43.0%
+[-] looping: step 44 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3433774
+Completed: 44.0%
+[-] looping: step 45 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3433774
+Completed: 45.0%
+[-] looping: step 46 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3433774
+Completed: 46.0%
+[-] looping: step 47 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3433774
+Completed: 47.0%
+[-] looping: step 48 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3433774
+Completed: 48.0%
+[-] looping: step 49 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3433774
+Completed: 49.0%
+[-] looping: step 50 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3433774
+Completed: 50.0%
+[-] looping: step 51 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3408774
+Completed: 51.0%
+[-] looping: step 52 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3383774
+Completed: 52.0%
+[-] looping: step 53 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3358774
+Completed: 53.0%
+[-] looping: step 54 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3333774
+Completed: 54.0%
+[-] looping: step 55 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3308774
+Completed: 55.0%
+[-] looping: step 56 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3283774
+Completed: 56.0%
+[-] looping: step 57 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3258774
+Completed: 57.0%
+[-] looping: step 58 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3258774
+Completed: 58.0%
+[-] looping: step 59 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3258774
+Completed: 59.0%
+[-] looping: step 60 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3258774
+Completed: 60.0%
+[-] looping: step 61 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3258774
+Completed: 61.0%
+[-] looping: step 62 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3258774
+Completed: 62.0%
+[-] looping: step 63 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3258774
+Completed: 63.0%
+[-] looping: step 64 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3258774
+Completed: 64.0%
+[-] looping: step 65 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3258774
+Completed: 65.0%
+[-] looping: step 66 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3283774
+Completed: 66.0%
+[-] looping: step 67 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3308774
+Completed: 67.0%
+[-] looping: step 68 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3333774
+Completed: 68.0%
+[-] looping: step 69 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3358774
+Completed: 69.0%
+[-] looping: step 70 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3383774
+Completed: 70.0%
+[-] looping: step 71 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3408774
+Completed: 71.0%
+[-] looping: step 72 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3433774
+Completed: 72.0%
+[-] looping: step 73 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3458774
+Completed: 73.0%
+[-] looping: step 74 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3458774
+Completed: 74.0%
+[-] looping: step 75 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3458774
+Completed: 75.0%
+[-] looping: step 76 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3458774
+Completed: 76.0%
+[-] looping: step 77 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3458774
+Completed: 77.0%
+[-] looping: step 78 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3458774
+Completed: 78.0%
+[-] looping: step 79 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3458774
+Completed: 79.0%
+[-] looping: step 80 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3458774
+Completed: 80.0%
+[-] looping: step 81 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3458774
+Completed: 81.0%
+[-] looping: step 82 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3458774
+Completed: 82.0%
+[-] looping: step 83 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3433774
+Completed: 83.0%
+[-] looping: step 84 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3408774
+Completed: 84.0%
+[-] looping: step 85 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3383774
+Completed: 85.0%
+[-] looping: step 86 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3358774
+Completed: 86.0%
+[-] looping: step 87 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3333774
+Completed: 87.0%
+[-] looping: step 88 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3308774
+Completed: 88.0%
+[-] looping: step 89 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3283774
+Completed: 89.0%
+[-] looping: step 90 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3258774
+Completed: 90.0%
+[-] looping: step 91 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3233774
+Completed: 91.0%
+[-] looping: step 92 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3233774
+Completed: 92.0%
+[-] looping: step 93 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3233774
+Completed: 93.0%
+[-] looping: step 94 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3233774
+Completed: 94.0%
+[-] looping: step 95 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3233774
+Completed: 95.0%
+[-] looping: step 96 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3233774
+Completed: 96.0%
+[-] looping: step 97 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3233774
+Completed: 97.0%
+[-] looping: step 98 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3233774
+Completed: 98.0%
+[-] looping: step 99 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3233774
+Completed: 99.0%
+[-] looping: step 100 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3233774
+Completed: 100.0%
+[-] register_background_thread called
+[-] register_background_thread: queueing
+[+] Locale is en
+[+] removing stale pokemon Drowzee at 47.613365, -122.328143 from list
+[+] removing stale pokemon Drowzee at 47.620047, -122.330852 from list
+[+] removing stale pokemon Nidoran♂ at 47.619247, -122.326869 from list
+[+] removing stale pokemon Pidgey at 47.618684, -122.338167 from list
+[+] removing stale pokemon Drowzee at 47.612557, -122.342391 from list
+[+] removing stale pokemon Zubat at 47.622598, -122.338248 from list
+[+] removing stale pokemon Drowzee at 47.623279, -122.348313 from list
+[+] removing stale pokemon Zubat at 47.618201, -122.333993 from list
+[+] removing stale pokemon Weedle at 47.622995, -122.322585 from list
+[+] removing stale pokemon Zubat at 47.614656, -122.322962 from list
+[+] removing stale pokemon Weedle at 47.612308, -122.335846 from list
+[+] removing stale pokemon Zubat at 47.629572, -122.329164 from list
+[+] removing stale pokemon Drowzee at 47.629544, -122.328980 from list
+[+] removing stale pokemon Zubat at 47.623762, -122.326674 from list
+[+] removing stale pokemon Venonat at 47.632789, -122.342602 from list
+[+] removing stale pokemon Venonat at 47.633076, -122.326200 from list
+[+] removing stale pokemon Nidoran♂ at 47.612916, -122.322234 from list
+[+] removing stale pokemon Zubat at 47.615647, -122.342910 from list
+[+] removing stale pokemon Drowzee at 47.611726, -122.325466 from list
+[+] removing stale pokemon Nidoran♀ at 47.633121, -122.348070 from list
+[+] removing stale pokemon Gastly at 47.612121, -122.326116 from list
+[+] removing stale pokemon Horsea at 47.622571, -122.329908 from list
+[+] removing stale pokemon Weedle at 47.617514, -122.346767 from list
+[+] removing stale pokemon Zubat at 47.622797, -122.340876 from list
+[+] removing stale pokemon Drowzee at 47.609354, -122.344400 from list
+[+] removing stale pokemon Krabby at 47.633415, -122.324851 from list
+[+] removing stale pokemon Zubat at 47.616379, -122.324558 from list
+[+] removing stale pokemon Magikarp at 47.628048, -122.333457 from list
+[+] removing stale pokemon Zubat at 47.613271, -122.331433 from list
+[+] removing stale pokemon Pidgey at 47.617306, -122.334932 from list
+[+] removing stale pokemon Hitmonlee at 47.613499, -122.329351 from list
+[+] removing stale pokemon Horsea at 47.616161, -122.334218 from list
+[+] removing stale pokemon Clefairy at 47.612489, -122.344234 from list
+[+] removing stale pokemon Pidgey at 47.616019, -122.346349 from list
+[+] removing stale pokemon Weedle at 47.612046, -122.338034 from list
+[+] removing stale pokemon Pidgey at 47.621042, -122.332859 from list
+[+] removing stale pokemon Pidgey at 47.624713, -122.348654 from list
+[+] removing stale pokemon Pidgey at 47.621887, -122.331263 from list
+[+] removing stale pokemon Paras at 47.618960, -122.343266 from list
+[+] removing stale pokemon Weedle at 47.615475, -122.343729 from list
+[+] removing stale pokemon Venonat at 47.618772, -122.341691 from list
+[+] removing stale pokemon Magikarp at 47.630272, -122.330203 from list
+[+] removing stale pokemon Weedle at 47.608923, -122.334360 from list
+[+] removing stale pokemon Zubat at 47.612201, -122.342977 from list
+[+] removing stale pokemon Zubat at 47.626736, -122.326747 from list
+[+] removing stale pokemon Drowzee at 47.613101, -122.345011 from list
+[+] removing stale pokemon Clefairy at 47.627095, -122.340555 from list
+[+] removing stale pokemon Drowzee at 47.622940, -122.346399 from list
+[+] removing stale pokemon Nidoran♀ at 47.623417, -122.323418 from list
+[+] removing stale pokemon Nidoran♀ at 47.614950, -122.325560 from list
+[+] removing stale pokemon Pidgey at 47.618161, -122.337651 from list
+[+] removing stale pokemon Hypno at 47.609063, -122.332016 from list
+[+] removing stale pokemon Spearow at 47.615302, -122.342916 from list
+[+] removing stale pokemon Poliwag at 47.626763, -122.335088 from list
+[+] removing stale pokemon Zubat at 47.613659, -122.334004 from list
+[+] removing stale pokemon Bellsprout at 47.622867, -122.322719 from list
+[+] removing stale pokemon Nidoran♀ at 47.628173, -122.343113 from list
+[+] removing stale pokemon Spearow at 47.627374, -122.337497 from list
+[+] removing stale pokemon Zubat at 47.622722, -122.326984 from list
+[+] removing stale pokemon Venonat at 47.614675, -122.339745 from list
+[+] removing stale pokemon Spearow at 47.611209, -122.326292 from list
+[+] removing stale pokemon Zubat at 47.619102, -122.331134 from list
+[+] removing stale pokemon Abra at 47.627487, -122.326811 from list
+[+] removing stale pokemon Zubat at 47.623028, -122.327373 from list
+[+] removing stale pokemon Spearow at 47.626106, -122.336627 from list
+[+] removing stale pokemon Spearow at 47.632637, -122.347158 from list
+[+] removing stale pokemon Drowzee at 47.626979, -122.340110 from list
+[+] removing stale pokemon Weedle at 47.623460, -122.335784 from list
+[+] removing stale pokemon Eevee at 47.632437, -122.346162 from list
+[+] removing stale pokemon Krabby at 47.609507, -122.333323 from list
+[+] removing stale pokemon Magikarp at 47.633337, -122.328905 from list
+[+] removing stale pokemon Tentacruel at 47.633364, -122.329089 from list
+[+] removing stale pokemon Jigglypuff at 47.620315, -122.326743 from list
+[-] looping: step 1 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3358774
+Completed: 1.0%
+[-] looping: step 2 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3358774
+Completed: 2.0%
+[-] looping: step 3 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3333774
+Completed: 3.0%
+[-] looping: step 4 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3333774
+Completed: 4.0%
+[-] looping: step 5 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3333774
+Completed: 5.0%
+[-] looping: step 6 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3358774
+Completed: 6.0%
+[-] looping: step 7 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3383774
+Completed: 7.0%
+[-] looping: step 8 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3383774
+Completed: 8.0%
+[-] looping: step 9 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3383774
+Completed: 9.0%
+[-] looping: step 10 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3383774
+Completed: 10.0%
+[-] looping: step 11 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3358774
+Completed: 11.0%
+[-] looping: step 12 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3333774
+Completed: 12.0%
+[-] looping: step 13 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3308774
+Completed: 13.0%
+[-] looping: step 14 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3308774
+Completed: 14.0%
+[-] looping: step 15 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3308774
+Completed: 15.0%
+[-] looping: step 16 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3308774
+Completed: 16.0%
+[-] looping: step 17 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3308774
+Completed: 17.0%
+[-] looping: step 18 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3333774
+Completed: 18.0%
+[-] looping: step 19 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3358774
+Completed: 19.0%
+[-] looping: step 20 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3383774
+Completed: 20.0%
+[-] looping: step 21 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3408774
+Completed: 21.0%
+[-] looping: step 22 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3408774
+Completed: 22.0%
+[-] looping: step 23 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3408774
+Completed: 23.0%
+[-] looping: step 24 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3408774
+Completed: 24.0%
+[-] looping: step 25 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3408774
+Completed: 25.0%
+[-] looping: step 26 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3408774
+Completed: 26.0%
+[-] looping: step 27 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3383774
+Completed: 27.0%
+[-] looping: step 28 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3358774
+Completed: 28.0%
+[-] looping: step 29 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3333774
+Completed: 29.0%
+[-] looping: step 30 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3308774
+Completed: 30.0%
+[-] looping: step 31 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3283774
+Completed: 31.0%
+[-] looping: step 32 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3283774
+Completed: 32.0%
+[-] looping: step 33 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3283774
+Completed: 33.0%
+[-] looping: step 34 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3283774
+Completed: 34.0%
+[-] looping: step 35 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3283774
+Completed: 35.0%
+[-] looping: step 36 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3283774
+Completed: 36.0%
+[-] looping: step 37 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3283774
+Completed: 37.0%
+[-] looping: step 38 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3308774
+Completed: 38.0%
+[-] looping: step 39 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3333774
+Completed: 39.0%
+[-] looping: step 40 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3358774
+Completed: 40.0%
+[-] looping: step 41 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3383774
+Completed: 41.0%
+[-] looping: step 42 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3408774
+Completed: 42.0%
+[-] looping: step 43 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3433774
+Completed: 43.0%
+[-] looping: step 44 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3433774
+Completed: 44.0%
+[-] looping: step 45 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3433774
+Completed: 45.0%
+[-] looping: step 46 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3433774
+Completed: 46.0%
+[-] looping: step 47 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3433774
+Completed: 47.0%
+[-] looping: step 48 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3433774
+Completed: 48.0%
+[-] looping: step 49 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3433774
+Completed: 49.0%
+[-] looping: step 50 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3433774
+Completed: 50.0%
+[-] looping: step 51 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3408774
+Completed: 51.0%
+[-] looping: step 52 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3383774
+Completed: 52.0%
+[-] looping: step 53 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3358774
+Completed: 53.0%
+[-] looping: step 54 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3333774
+Completed: 54.0%
+[-] looping: step 55 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3308774
+Completed: 55.0%
+[-] looping: step 56 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3283774
+Completed: 56.0%
+[-] looping: step 57 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3258774
+Completed: 57.0%
+[-] looping: step 58 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3258774
+Completed: 58.0%
+[-] looping: step 59 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3258774
+Completed: 59.0%
+[-] looping: step 60 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3258774
+Completed: 60.0%
+[-] looping: step 61 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3258774
+Completed: 61.0%
+[-] looping: step 62 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3258774
+Completed: 62.0%
+[-] looping: step 63 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3258774
+Completed: 63.0%
+[-] looping: step 64 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3258774
+Completed: 64.0%
+[-] looping: step 65 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3258774
+Completed: 65.0%
+[-] looping: step 66 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3283774
+Completed: 66.0%
+[-] looping: step 67 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3308774
+Completed: 67.0%
+[-] looping: step 68 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3333774
+Completed: 68.0%
+[-] looping: step 69 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3358774
+Completed: 69.0%
+[-] looping: step 70 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3383774
+Completed: 70.0%
+[-] looping: step 71 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3408774
+Completed: 71.0%
+[-] looping: step 72 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3433774
+Completed: 72.0%
+[-] looping: step 73 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3458774
+Completed: 73.0%
+[-] looping: step 74 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3458774
+Completed: 74.0%
+[-] looping: step 75 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3458774
+Completed: 75.0%
+[-] looping: step 76 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3458774
+Completed: 76.0%
+[-] looping: step 77 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3458774
+Completed: 77.0%
+[-] looping: step 78 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3458774
+Completed: 78.0%
+[-] looping: step 79 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3458774
+Completed: 79.0%
+[-] looping: step 80 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3458774
+Completed: 80.0%
+[-] looping: step 81 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3458774
+Completed: 81.0%
+[-] looping: step 82 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3458774
+Completed: 82.0%
+[-] looping: step 83 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3433774
+Completed: 83.0%
+[-] looping: step 84 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3408774
+Completed: 84.0%
+[-] looping: step 85 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3383774
+Completed: 85.0%
+[-] looping: step 86 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3358774
+Completed: 86.0%
+[-] looping: step 87 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3333774
+Completed: 87.0%
+[-] looping: step 88 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3308774
+Completed: 88.0%
+[-] looping: step 89 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3283774
+Completed: 89.0%
+[-] looping: step 90 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3258774
+Completed: 90.0%
+[-] looping: step 91 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3233774
+Completed: 91.0%
+[-] looping: step 92 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3233774
+Completed: 92.0%
+[-] looping: step 93 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3233774
+Completed: 93.0%
+[-] looping: step 94 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3233774
+Completed: 94.0%
+[-] looping: step 95 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3233774
+Completed: 95.0%
+[-] looping: step 96 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3233774
+Completed: 96.0%
+[-] looping: step 97 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3233774
+Completed: 97.0%
+[-] looping: step 98 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3233774
+Completed: 98.0%
+[-] looping: step 99 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3233774
+Completed: 99.0%
+[-] looping: step 100 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3233774
+Completed: 100.0%
+[-] register_background_thread called
+[-] register_background_thread: queueing
+[+] Locale is en
+[+] removing stale pokemon Zubat at 47.608936, -122.323996 from list
+[+] removing stale pokemon Zubat at 47.628103, -122.333825 from list
+[+] removing stale pokemon Clefairy at 47.608127, -122.341504 from list
+[+] removing stale pokemon Machop at 47.613555, -122.324825 from list
+[+] removing stale pokemon Weedle at 47.623256, -122.322027 from list
+[+] removing stale pokemon Psyduck at 47.610641, -122.334616 from list
+[+] removing stale pokemon Drowzee at 47.626813, -122.334113 from list
+[+] removing stale pokemon Zubat at 47.614364, -122.339646 from list
+[+] removing stale pokemon Psyduck at 47.634104, -122.329732 from list
+[+] removing stale pokemon Krabby at 47.619310, -122.344601 from list
+[+] removing stale pokemon Jigglypuff at 47.621743, -122.332266 from list
+[+] removing stale pokemon Kakuna at 47.619030, -122.326742 from list
+[+] removing stale pokemon Weedle at 47.630953, -122.345164 from list
+[+] removing stale pokemon Zubat at 47.609962, -122.335681 from list
+[+] removing stale pokemon Caterpie at 47.624568, -122.325474 from list
+[+] removing stale pokemon Drowzee at 47.626341, -122.332623 from list
+[+] removing stale pokemon Jigglypuff at 47.623732, -122.336279 from list
+[+] removing stale pokemon Clefairy at 47.626731, -122.327036 from list
+[+] removing stale pokemon Zubat at 47.615464, -122.342676 from list
+[+] removing stale pokemon Meowth at 47.620375, -122.331714 from list
+[+] removing stale pokemon Spearow at 47.624913, -122.322204 from list
+[+] removing stale pokemon Clefairy at 47.612309, -122.329322 from list
+[+] removing stale pokemon Weedle at 47.627804, -122.329883 from list
+[+] removing stale pokemon Meowth at 47.624140, -122.324930 from list
+[+] removing stale pokemon Pidgey at 47.612068, -122.341769 from list
+[+] removing stale pokemon Zubat at 47.615723, -122.326097 from list
+[+] removing stale pokemon Zubat at 47.617318, -122.322935 from list
+[+] removing stale pokemon Zubat at 47.622266, -122.329519 from list
+[+] removing stale pokemon Zubat at 47.632380, -122.326503 from list
+[+] removing stale pokemon Caterpie at 47.626039, -122.340102 from list
+[+] removing stale pokemon Zubat at 47.625600, -122.340137 from list
+[+] removing stale pokemon Nidoran♀ at 47.610615, -122.348821 from list
+[+] removing stale pokemon Mankey at 47.614472, -122.322729 from list
+[+] removing stale pokemon Psyduck at 47.627158, -122.334106 from list
+[+] removing stale pokemon Pidgey at 47.621915, -122.333078 from list
+[+] removing stale pokemon Drowzee at 47.621744, -122.324110 from list
+[+] removing stale pokemon Seel at 47.620147, -122.330535 from list
+[+] removing stale pokemon Weedle at 47.622066, -122.330155 from list
+[+] removing stale pokemon Zubat at 47.617009, -122.342120 from list
+[+] removing stale pokemon Pidgey at 47.618779, -122.333245 from list
+[+] removing stale pokemon Jigglypuff at 47.623979, -122.326801 from list
+[+] removing stale pokemon Zubat at 47.612589, -122.345547 from list
+[+] removing stale pokemon Zubat at 47.632398, -122.346558 from list
+[+] removing stale pokemon Pidgey at 47.634605, -122.324879 from list
+[+] removing stale pokemon Clefairy at 47.610636, -122.331643 from list
+[+] removing stale pokemon Clefairy at 47.625709, -122.345766 from list
+[+] removing stale pokemon Krabby at 47.608708, -122.322817 from list
+[+] removing stale pokemon Caterpie at 47.617135, -122.327595 from list
+[+] removing stale pokemon Krabby at 47.609773, -122.337368 from list
+[+] removing stale pokemon Zubat at 47.621099, -122.325070 from list
+[+] removing stale pokemon Krabby at 47.618941, -122.326481 from list
+[+] removing stale pokemon Zubat at 47.619744, -122.344856 from list
+[+] removing stale pokemon Weedle at 47.615633, -122.333991 from list
+[+] removing stale pokemon Pidgey at 47.632058, -122.347906 from list
+[+] removing stale pokemon Spearow at 47.616016, -122.333589 from list
+[-] looping: step 1 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3358774
+Completed: 1.0%
+[-] looping: step 2 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3358774
+Completed: 2.0%
+[-] looping: step 3 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3333774
+Completed: 3.0%
+[-] looping: step 4 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3333774
+Completed: 4.0%
+[-] looping: step 5 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3333774
+Completed: 5.0%
+[-] looping: step 6 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3358774
+Completed: 6.0%
+[-] looping: step 7 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3383774
+Completed: 7.0%
+[-] looping: step 8 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3383774
+Completed: 8.0%
+[-] looping: step 9 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3383774
+Completed: 9.0%
+[-] looping: step 10 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3383774
+Completed: 10.0%
+[-] looping: step 11 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3358774
+Completed: 11.0%
+[-] looping: step 12 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3333774
+Completed: 12.0%
+[-] looping: step 13 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3308774
+Completed: 13.0%
+[-] looping: step 14 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3308774
+Completed: 14.0%
+[-] looping: step 15 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3308774
+Completed: 15.0%
+[-] looping: step 16 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3308774
+Completed: 16.0%
+[-] looping: step 17 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3308774
+Completed: 17.0%
+[-] looping: step 18 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3333774
+Completed: 18.0%
+[-] looping: step 19 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3358774
+Completed: 19.0%
+[-] looping: step 20 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3383774
+Completed: 20.0%
+[-] looping: step 21 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3408774
+Completed: 21.0%
+[-] looping: step 22 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3408774
+Completed: 22.0%
+[-] looping: step 23 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3408774
+Completed: 23.0%
+[-] looping: step 24 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3408774
+Completed: 24.0%
+[-] looping: step 25 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3408774
+Completed: 25.0%
+[-] looping: step 26 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3408774
+Completed: 26.0%
+[-] looping: step 27 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3383774
+Completed: 27.0%
+[-] looping: step 28 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3358774
+Completed: 28.0%
+[-] looping: step 29 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3333774
+Completed: 29.0%
+[-] looping: step 30 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3308774
+Completed: 30.0%
+[-] looping: step 31 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3283774
+Completed: 31.0%
+[-] looping: step 32 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3283774
+Completed: 32.0%
+[-] looping: step 33 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3283774
+Completed: 33.0%
+[-] looping: step 34 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3283774
+Completed: 34.0%
+[-] looping: step 35 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3283774
+Completed: 35.0%
+[-] looping: step 36 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3283774
+Completed: 36.0%
+[-] looping: step 37 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3283774
+Completed: 37.0%
+[-] looping: step 38 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3308774
+Completed: 38.0%
+[-] looping: step 39 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3333774
+Completed: 39.0%
+[-] looping: step 40 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3358774
+Completed: 40.0%
+[-] looping: step 41 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3383774
+Completed: 41.0%
+[-] looping: step 42 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3408774
+Completed: 42.0%
+[-] looping: step 43 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3433774
+Completed: 43.0%
+[-] looping: step 44 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3433774
+Completed: 44.0%
+[-] looping: step 45 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3433774
+Completed: 45.0%
+[-] looping: step 46 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3433774
+Completed: 46.0%
+[-] looping: step 47 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3433774
+Completed: 47.0%
+[-] looping: step 48 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3433774
+Completed: 48.0%
+[-] looping: step 49 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3433774
+Completed: 49.0%
+[-] looping: step 50 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3433774
+Completed: 50.0%
+[-] looping: step 51 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3408774
+Completed: 51.0%
+[-] looping: step 52 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3383774
+Completed: 52.0%
+[-] looping: step 53 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3358774
+Completed: 53.0%
+[-] looping: step 54 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3333774
+Completed: 54.0%
+[-] looping: step 55 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3308774
+Completed: 55.0%
+[-] looping: step 56 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3283774
+Completed: 56.0%
+[-] looping: step 57 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3258774
+Completed: 57.0%
+[-] looping: step 58 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3258774
+Completed: 58.0%
+[-] looping: step 59 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3258774
+Completed: 59.0%
+[-] looping: step 60 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3258774
+Completed: 60.0%
+[-] looping: step 61 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3258774
+Completed: 61.0%
+[-] looping: step 62 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3258774
+Completed: 62.0%
+[-] looping: step 63 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3258774
+Completed: 63.0%
+[-] looping: step 64 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3258774
+Completed: 64.0%
+[-] looping: step 65 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3258774
+Completed: 65.0%
+[-] looping: step 66 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3283774
+Completed: 66.0%
+[-] looping: step 67 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3308774
+Completed: 67.0%
+[-] looping: step 68 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3333774
+Completed: 68.0%
+[-] looping: step 69 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3358774
+Completed: 69.0%
+[-] looping: step 70 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3383774
+Completed: 70.0%
+[-] looping: step 71 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3408774
+Completed: 71.0%
+[-] looping: step 72 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3433774
+Completed: 72.0%
+[-] looping: step 73 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3458774
+Completed: 73.0%
+[-] looping: step 74 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3458774
+Completed: 74.0%
+[-] looping: step 75 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3458774
+Completed: 75.0%
+[-] looping: step 76 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3458774
+Completed: 76.0%
+[-] looping: step 77 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3458774
+Completed: 77.0%
+[-] looping: step 78 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3458774
+Completed: 78.0%
+[-] looping: step 79 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3458774
+Completed: 79.0%
+[-] looping: step 80 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3458774
+Completed: 80.0%
+[-] looping: step 81 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3458774
+Completed: 81.0%
+[-] looping: step 82 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3458774
+Completed: 82.0%
+[-] looping: step 83 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3433774
+Completed: 83.0%
+[-] looping: step 84 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3408774
+Completed: 84.0%
+[-] looping: step 85 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3383774
+Completed: 85.0%
+[-] looping: step 86 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3358774
+Completed: 86.0%
+[-] looping: step 87 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3333774
+Completed: 87.0%
+[-] looping: step 88 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3308774
+Completed: 88.0%
+[-] looping: step 89 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3283774
+Completed: 89.0%
+[-] looping: step 90 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3258774
+Completed: 90.0%
+[-] looping: step 91 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3233774
+Completed: 91.0%
+[-] looping: step 92 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3233774
+Completed: 92.0%
+[-] looping: step 93 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3233774
+Completed: 93.0%
+[-] looping: step 94 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3233774
+Completed: 94.0%
+[-] looping: step 95 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3233774
+Completed: 95.0%
+[-] looping: step 96 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3233774
+Completed: 96.0%
+[-] looping: step 97 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3233774
+Completed: 97.0%
+[-] looping: step 98 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3233774
+Completed: 98.0%
+[-] looping: step 99 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3233774
+Completed: 99.0%
+[-] looping: step 100 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3233774
+Completed: 100.0%
+[-] register_background_thread called
+[-] register_background_thread: queueing
+[+] Locale is en
+[+] removing stale pokemon Drowzee at 47.612944, -122.346593 from list
+[+] removing stale pokemon Meowth at 47.618752, -122.326537 from list
+[+] removing stale pokemon Shellder at 47.625015, -122.342806 from list
+[+] removing stale pokemon Weedle at 47.615531, -122.340833 from list
+[+] removing stale pokemon Zubat at 47.632878, -122.341232 from list
+[+] removing stale pokemon Magikarp at 47.622154, -122.330416 from list
+[+] removing stale pokemon Jigglypuff at 47.618000, -122.336260 from list
+[+] removing stale pokemon Zubat at 47.615484, -122.327128 from list
+[+] removing stale pokemon Weedle at 47.614003, -122.337259 from list
+[+] removing stale pokemon Weedle at 47.619332, -122.346706 from list
+[+] removing stale pokemon Krabby at 47.618289, -122.339148 from list
+[+] removing stale pokemon Psyduck at 47.622933, -122.330664 from list
+[+] removing stale pokemon Jigglypuff at 47.630681, -122.344670 from list
+[+] removing stale pokemon Machop at 47.620793, -122.326312 from list
+[+] removing stale pokemon Bellsprout at 47.627776, -122.329700 from list
+[+] removing stale pokemon Psyduck at 47.632928, -122.340257 from list
+[+] removing stale pokemon Poliwag at 47.617697, -122.347000 from list
+[+] removing stale pokemon Drowzee at 47.622667, -122.321723 from list
+[+] removing stale pokemon Pidgey at 47.633427, -122.345195 from list
+[+] removing stale pokemon Bellsprout at 47.628904, -122.331283 from list
+[+] removing stale pokemon Drowzee at 47.618208, -122.322286 from list
+[+] removing stale pokemon Eevee at 47.624396, -122.323030 from list
+[+] removing stale pokemon Caterpie at 47.627395, -122.341233 from list
+[+] removing stale pokemon Zubat at 47.616128, -122.331061 from list
+[+] removing stale pokemon Weedle at 47.611431, -122.326130 from list
+[+] removing stale pokemon Spearow at 47.620525, -122.330422 from list
+[+] removing stale pokemon Drowzee at 47.619489, -122.340230 from list
+[+] removing stale pokemon Pidgey at 47.628234, -122.343191 from list
+[+] removing stale pokemon Zubat at 47.619062, -122.336423 from list
+[+] removing stale pokemon Gastly at 47.616921, -122.340228 from list
+[+] removing stale pokemon Horsea at 47.614942, -122.340529 from list
+[+] removing stale pokemon Goldeen at 47.626501, -122.335646 from list
+[+] removing stale pokemon Zubat at 47.620703, -122.332576 from list
+[+] removing stale pokemon Zubat at 47.617410, -122.342481 from list
+[+] removing stale pokemon Pidgeotto at 47.612905, -122.322812 from list
+[+] removing stale pokemon Zubat at 47.618140, -122.333916 from list
+[+] removing stale pokemon Nidoran♂ at 47.613004, -122.325757 from list
+[+] removing stale pokemon Pidgeot at 47.617146, -122.322123 from list
+[+] removing stale pokemon Machop at 47.621877, -122.325317 from list
+[+] removing stale pokemon Paras at 47.628939, -122.321387 from list
+[+] removing stale pokemon Zubat at 47.619829, -122.337250 from list
+[-] looping: step 1 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3358774
+Completed: 1.0%
+[-] looping: step 2 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3358774
+Completed: 2.0%
+[-] looping: step 3 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3333774
+Completed: 3.0%
+[-] looping: step 4 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3333774
+Completed: 4.0%
+[-] looping: step 5 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3333774
+Completed: 5.0%
+[-] looping: step 6 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3358774
+Completed: 6.0%
+[-] looping: step 7 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3383774
+Completed: 7.0%
+[-] looping: step 8 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3383774
+Completed: 8.0%
+[-] looping: step 9 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3383774
+Completed: 9.0%
+[-] looping: step 10 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3383774
+Completed: 10.0%
+[-] looping: step 11 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3358774
+Completed: 11.0%
+[-] looping: step 12 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3333774
+Completed: 12.0%
+[-] looping: step 13 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3308774
+Completed: 13.0%
+[-] looping: step 14 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3308774
+Completed: 14.0%
+[-] looping: step 15 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3308774
+Completed: 15.0%
+[-] looping: step 16 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3308774
+Completed: 16.0%
+[-] looping: step 17 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3308774
+Completed: 17.0%
+[-] looping: step 18 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3333774
+Completed: 18.0%
+[-] looping: step 19 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3358774
+Completed: 19.0%
+[-] looping: step 20 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3383774
+Completed: 20.0%
+[-] looping: step 21 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3408774
+Completed: 21.0%
+[-] looping: step 22 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3408774
+Completed: 22.0%
+[-] looping: step 23 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3408774
+Completed: 23.0%
+[-] looping: step 24 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3408774
+Completed: 24.0%
+[-] looping: step 25 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3408774
+Completed: 25.0%
+[-] looping: step 26 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3408774
+Completed: 26.0%
+[-] looping: step 27 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3383774
+Completed: 27.0%
+[-] looping: step 28 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3358774
+Completed: 28.0%
+[-] looping: step 29 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3333774
+Completed: 29.0%
+[-] looping: step 30 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3308774
+Completed: 30.0%
+[-] looping: step 31 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3283774
+Completed: 31.0%
+[-] looping: step 32 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3283774
+Completed: 32.0%
+[-] looping: step 33 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3283774
+Completed: 33.0%
+[-] looping: step 34 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3283774
+Completed: 34.0%
+[-] looping: step 35 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3283774
+Completed: 35.0%
+[-] looping: step 36 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3283774
+Completed: 36.0%
+[-] looping: step 37 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3283774
+Completed: 37.0%
+[-] looping: step 38 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3308774
+Completed: 38.0%
+[-] looping: step 39 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3333774
+Completed: 39.0%
+[-] looping: step 40 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3358774
+Completed: 40.0%
+[-] looping: step 41 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3383774
+Completed: 41.0%
+[-] looping: step 42 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3408774
+Completed: 42.0%
+[-] looping: step 43 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3433774
+Completed: 43.0%
+[-] looping: step 44 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3433774
+Completed: 44.0%
+[-] looping: step 45 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3433774
+Completed: 45.0%
+[-] looping: step 46 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3433774
+Completed: 46.0%
+[-] looping: step 47 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3433774
+Completed: 47.0%
+[-] looping: step 48 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3433774
+Completed: 48.0%
+[-] looping: step 49 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3433774
+Completed: 49.0%
+[-] looping: step 50 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3433774
+Completed: 50.0%
+[-] looping: step 51 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3408774
+Completed: 51.0%
+[-] looping: step 52 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3383774
+Completed: 52.0%
+[-] looping: step 53 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3358774
+Completed: 53.0%
+[-] looping: step 54 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3333774
+Completed: 54.0%
+[-] looping: step 55 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3308774
+Completed: 55.0%
+[-] looping: step 56 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3283774
+Completed: 56.0%
+[-] looping: step 57 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3258774
+Completed: 57.0%
+[-] looping: step 58 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3258774
+Completed: 58.0%
+[-] looping: step 59 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3258774
+Completed: 59.0%
+[-] looping: step 60 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3258774
+Completed: 60.0%
+[-] looping: step 61 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3258774
+Completed: 61.0%
+[-] looping: step 62 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3258774
+Completed: 62.0%
+[-] looping: step 63 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3258774
+Completed: 63.0%
+[-] looping: step 64 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3258774
+Completed: 64.0%
+[-] looping: step 65 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3258774
+Completed: 65.0%
+[-] looping: step 66 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3283774
+Completed: 66.0%
+[-] looping: step 67 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3308774
+Completed: 67.0%
+[-] looping: step 68 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3333774
+Completed: 68.0%
+[-] looping: step 69 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3358774
+Completed: 69.0%
+[-] looping: step 70 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3383774
+Completed: 70.0%
+[-] looping: step 71 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3408774
+Completed: 71.0%
+[-] looping: step 72 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3433774
+Completed: 72.0%
+[-] looping: step 73 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3458774
+Completed: 73.0%
+[-] looping: step 74 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3458774
+Completed: 74.0%
+[-] looping: step 75 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3458774
+Completed: 75.0%
+[-] looping: step 76 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3458774
+Completed: 76.0%
+[-] looping: step 77 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3458774
+Completed: 77.0%
+[-] looping: step 78 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3458774
+Completed: 78.0%
+[-] looping: step 79 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3458774
+Completed: 79.0%
+[-] looping: step 80 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3458774
+Completed: 80.0%
+[-] looping: step 81 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3458774
+Completed: 81.0%
+[-] looping: step 82 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3458774
+Completed: 82.0%
+[-] looping: step 83 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3433774
+Completed: 83.0%
+[-] looping: step 84 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3408774
+Completed: 84.0%
+[-] looping: step 85 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3383774
+Completed: 85.0%
+[-] looping: step 86 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3358774
+Completed: 86.0%
+[-] looping: step 87 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3333774
+Completed: 87.0%
+[-] looping: step 88 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3308774
+Completed: 88.0%
+[-] looping: step 89 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3283774
+Completed: 89.0%
+[-] looping: step 90 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3258774
+Completed: 90.0%
+[-] looping: step 91 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3233774
+Completed: 91.0%
+[-] looping: step 92 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3233774
+Completed: 92.0%
+[-] looping: step 93 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3233774
+Completed: 93.0%
+[-] looping: step 94 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3233774
+Completed: 94.0%
+[-] looping: step 95 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3233774
+Completed: 95.0%
+[-] looping: step 96 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3233774
+Completed: 96.0%
+[-] looping: step 97 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3233774
+Completed: 97.0%
+[-] looping: step 98 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3233774
+Completed: 98.0%
+[-] looping: step 99 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3233774
+Completed: 99.0%
+[-] looping: step 100 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3233774
+Completed: 100.0%
+[-] register_background_thread called
+[-] register_background_thread: queueing
+[+] Locale is en
+[-] looping: step 1 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3358774
+Completed: 1.0%
+[-] looping: step 2 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3358774
+Completed: 2.0%
+[-] looping: step 3 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3333774
+Completed: 3.0%
+[-] looping: step 4 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3333774
+Completed: 4.0%
+[-] looping: step 5 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3333774
+Completed: 5.0%
+[-] looping: step 6 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3358774
+Completed: 6.0%
+[-] looping: step 7 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3383774
+Completed: 7.0%
+[-] looping: step 8 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3383774
+Completed: 8.0%
+[-] looping: step 9 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3383774
+Completed: 9.0%
+[-] looping: step 10 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3383774
+Completed: 10.0%
+[-] looping: step 11 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3358774
+Completed: 11.0%
+[-] looping: step 12 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3333774
+Completed: 12.0%
+[-] looping: step 13 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3308774
+Completed: 13.0%
+[-] looping: step 14 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3308774
+Completed: 14.0%
+[-] looping: step 15 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3308774
+Completed: 15.0%
+[-] looping: step 16 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3308774
+Completed: 16.0%
+[-] looping: step 17 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3308774
+Completed: 17.0%
+[-] looping: step 18 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3333774
+Completed: 18.0%
+[-] looping: step 19 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3358774
+Completed: 19.0%
+[-] looping: step 20 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3383774
+Completed: 20.0%
+[-] looping: step 21 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3408774
+Completed: 21.0%
+[-] looping: step 22 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3408774
+Completed: 22.0%
+[-] looping: step 23 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3408774
+Completed: 23.0%
+[-] looping: step 24 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3408774
+Completed: 24.0%
+[-] looping: step 25 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3408774
+Completed: 25.0%
+[-] looping: step 26 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3408774
+Completed: 26.0%
+[-] looping: step 27 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3383774
+Completed: 27.0%
+[-] looping: step 28 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3358774
+Completed: 28.0%
+[-] looping: step 29 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3333774
+Completed: 29.0%
+[-] looping: step 30 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3308774
+Completed: 30.0%
+[-] looping: step 31 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3283774
+Completed: 31.0%
+[-] looping: step 32 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3283774
+Completed: 32.0%
+[-] looping: step 33 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3283774
+Completed: 33.0%
+[-] looping: step 34 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3283774
+Completed: 34.0%
+[-] looping: step 35 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3283774
+Completed: 35.0%
+[-] looping: step 36 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3283774
+Completed: 36.0%
+[-] looping: step 37 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3283774
+Completed: 37.0%
+[-] looping: step 38 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3308774
+Completed: 38.0%
+[-] looping: step 39 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3333774
+Completed: 39.0%
+[-] looping: step 40 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3358774
+Completed: 40.0%
+[-] looping: step 41 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3383774
+Completed: 41.0%
+[-] looping: step 42 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3408774
+Completed: 42.0%
+[-] looping: step 43 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3433774
+Completed: 43.0%
+[-] looping: step 44 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3433774
+Completed: 44.0%
+[-] looping: step 45 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3433774
+Completed: 45.0%
+[-] looping: step 46 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3433774
+Completed: 46.0%
+[-] looping: step 47 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3433774
+Completed: 47.0%
+[-] looping: step 48 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3433774
+Completed: 48.0%
+[-] looping: step 49 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3433774
+Completed: 49.0%
+[-] looping: step 50 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3433774
+Completed: 50.0%
+[-] looping: step 51 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3408774
+Completed: 51.0%
+[-] looping: step 52 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3383774
+Completed: 52.0%
+[-] looping: step 53 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3358774
+Completed: 53.0%
+[-] looping: step 54 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3333774
+Completed: 54.0%
+[-] looping: step 55 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3308774
+Completed: 55.0%
+[-] looping: step 56 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3283774
+Completed: 56.0%
+[-] looping: step 57 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3258774
+Completed: 57.0%
+[-] looping: step 58 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3258774
+Completed: 58.0%
+[-] looping: step 59 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3258774
+Completed: 59.0%
+[-] looping: step 60 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3258774
+Completed: 60.0%
+[-] looping: step 61 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3258774
+Completed: 61.0%
+[-] looping: step 62 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3258774
+Completed: 62.0%
+[-] looping: step 63 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3258774
+Completed: 63.0%
+[-] looping: step 64 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3258774
+Completed: 64.0%
+[-] looping: step 65 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3258774
+Completed: 65.0%
+[-] looping: step 66 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3283774
+Completed: 66.0%
+[-] looping: step 67 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3308774
+Completed: 67.0%
+[-] looping: step 68 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3333774
+Completed: 68.0%
+[-] looping: step 69 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3358774
+Completed: 69.0%
+[-] looping: step 70 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3383774
+Completed: 70.0%
+[-] looping: step 71 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3408774
+Completed: 71.0%
+[-] looping: step 72 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3433774
+Completed: 72.0%
+[-] looping: step 73 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3458774
+Completed: 73.0%
+[-] looping: step 74 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3458774
+Completed: 74.0%
+[-] looping: step 75 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3458774
+Completed: 75.0%
+[-] looping: step 76 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3458774
+Completed: 76.0%
+[-] looping: step 77 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3458774
+Completed: 77.0%
+[-] looping: step 78 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3458774
+Completed: 78.0%
+[-] looping: step 79 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3458774
+Completed: 79.0%
+[-] looping: step 80 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3458774
+Completed: 80.0%
+[-] looping: step 81 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3458774
+Completed: 81.0%
+[-] looping: step 82 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3458774
+Completed: 82.0%
+[-] looping: step 83 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3433774
+Completed: 83.0%
+[-] looping: step 84 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3408774
+Completed: 84.0%
+[-] looping: step 85 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3383774
+Completed: 85.0%
+[-] looping: step 86 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3358774
+Completed: 86.0%
+[-] looping: step 87 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3333774
+Completed: 87.0%
+[-] looping: step 88 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3308774
+Completed: 88.0%
+[-] looping: step 89 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3283774
+Completed: 89.0%
+[-] looping: step 90 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3258774
+Completed: 90.0%
+[-] looping: step 91 of 100
+[+] Searching for Pokemon at location 47.6325132 -122.3233774
+Completed: 91.0%
+[-] looping: step 92 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3233774
+Completed: 92.0%
+[-] looping: step 93 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3233774
+Completed: 93.0%
+[-] looping: step 94 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3233774
+Completed: 94.0%
+[-] looping: step 95 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3233774
+Completed: 95.0%
+[-] looping: step 96 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3233774
+Completed: 96.0%
+[-] looping: step 97 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3233774
+Completed: 97.0%
+[-] looping: step 98 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3233774
+Completed: 98.0%
+[-] looping: step 99 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3233774
+Completed: 99.0%
+[-] looping: step 100 of 100
+[+] Searching for Pokemon at location 47.6100132 -122.3233774
+Completed: 100.0%
+[-] register_background_thread called
+[-] register_background_thread: queueing
+[+] Locale is en
+[-] looping: step 1 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3358774
+Completed: 1.0%
+[-] looping: step 2 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3358774
+Completed: 2.0%
+[-] looping: step 3 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3333774
+Completed: 3.0%
+[-] looping: step 4 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3333774
+Completed: 4.0%
+[-] looping: step 5 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3333774
+Completed: 5.0%
+[-] looping: step 6 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3358774
+Completed: 6.0%
+[-] looping: step 7 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3383774
+Completed: 7.0%
+[-] looping: step 8 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3383774
+Completed: 8.0%
+[-] looping: step 9 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3383774
+Completed: 9.0%
+[-] looping: step 10 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3383774
+Completed: 10.0%
+[-] looping: step 11 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3358774
+Completed: 11.0%
+[-] looping: step 12 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3333774
+Completed: 12.0%
+[-] looping: step 13 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3308774
+Completed: 13.0%
+[-] looping: step 14 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3308774
+Completed: 14.0%
+[-] looping: step 15 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3308774
+Completed: 15.0%
+[-] looping: step 16 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3308774
+Completed: 16.0%
+[-] looping: step 17 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3308774
+Completed: 17.0%
+[-] looping: step 18 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3333774
+Completed: 18.0%
+[-] looping: step 19 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3358774
+Completed: 19.0%
+[-] looping: step 20 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3383774
+Completed: 20.0%
+[-] looping: step 21 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3408774
+Completed: 21.0%
+[-] looping: step 22 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3408774
+Completed: 22.0%
+[-] looping: step 23 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3408774
+Completed: 23.0%
+[-] looping: step 24 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3408774
+Completed: 24.0%
+[-] looping: step 25 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3408774
+Completed: 25.0%
+[-] looping: step 26 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3408774
+Completed: 26.0%
+[-] looping: step 27 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3383774
+Completed: 27.0%
+[-] looping: step 28 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3358774
+Completed: 28.0%
+[-] looping: step 29 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3333774
+Completed: 29.0%
+[-] looping: step 30 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3308774
+Completed: 30.0%
+[-] looping: step 31 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3283774
+Completed: 31.0%
+[-] looping: step 32 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3283774
+Completed: 32.0%
+[-] looping: step 33 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3283774
+Completed: 33.0%
+[-] looping: step 34 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3283774
+Completed: 34.0%
+[-] looping: step 35 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3283774
+Completed: 35.0%
+[-] looping: step 36 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3283774
+Completed: 36.0%
+[-] looping: step 37 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3283774
+Completed: 37.0%
+[-] looping: step 38 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3308774
+Completed: 38.0%
+[-] looping: step 39 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3333774
+Completed: 39.0%
+[-] looping: step 40 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3358774
+Completed: 40.0%
+[-] looping: step 41 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3383774
+Completed: 41.0%
+[-] looping: step 42 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3408774
+Completed: 42.0%
+[-] looping: step 43 of 100
+[+] Searching for Pokemon at location 47.6125132 -122.3433774
+Completed: 43.0%
+[-] looping: step 44 of 100
+[+] Searching for Pokemon at location 47.6150132 -122.3433774
+Completed: 44.0%
+[-] looping: step 45 of 100
+[+] Searching for Pokemon at location 47.6175132 -122.3433774
+Completed: 45.0%
+[-] looping: step 46 of 100
+[+] Searching for Pokemon at location 47.6200132 -122.3433774
+Completed: 46.0%
+[-] looping: step 47 of 100
+[+] Searching for Pokemon at location 47.6225132 -122.3433774
+Completed: 47.0%
+[-] looping: step 48 of 100
+[+] Searching for Pokemon at location 47.6250132 -122.3433774
+Completed: 48.0%
+[-] looping: step 49 of 100
+[+] Searching for Pokemon at location 47.6275132 -122.3433774
+Completed: 49.0%
+[-] looping: step 50 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3433774
+Completed: 50.0%
+[-] looping: step 51 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3408774
+Completed: 51.0%
+[-] looping: step 52 of 100
+[+] Searching for Pokemon at location 47.6300132 -122.3383774
+[-] register_background_thread called
+[-] register_background_thread: not running inside Flask so not starting thread

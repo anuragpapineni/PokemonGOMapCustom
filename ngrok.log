@@ -1,0 +1,11 @@
+t=2016-07-21T18:27:14+0000 lvl=info msg="no configuration paths supplied"
+t=2016-07-21T18:27:14+0000 lvl=info msg="ignoring default config path, could not stat it" path=/home/anurag/.ngrok2/ngrok.yml err="stat /home/anurag/.ngrok2/ngrok.yml: no such file or directory"
+t=2016-07-21T18:27:14+0000 lvl=info msg="run component" obj=controller comp=storage
+t=2016-07-21T18:27:14+0000 lvl=info msg="run component" obj=controller comp="Tunnel session"
+t=2016-07-21T18:27:14+0000 lvl=info msg="run component" obj=controller comp=updater
+t=2016-07-21T18:27:14+0000 lvl=info msg="run component" obj=controller comp=web
+t=2016-07-21T18:27:14+0000 lvl=warn msg="can't bind default web address, trying alternatives" obj=web addr=127.0.0.1:4040
+t=2016-07-21T18:27:14+0000 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4043
+t=2016-07-21T18:27:14+0000 lvl=info msg="run component" obj=controller comp="signal handler"
+t=2016-07-21T18:27:14+0000 lvl=info msg="tunnel session started" obj=tunSess
+t=2016-07-21T18:27:14+0000 lvl=info msg="client session established" obj=csess id=1cfe59aa4fa8
