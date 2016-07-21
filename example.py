@@ -628,6 +628,16 @@ def main():
             NEXT_LONG = 0
             changed = False
 
+        if step == steplimit2-1:
+            step = 0
+            pos = 1
+            x = 0
+            y = 0
+            dx = 0
+            dy = -1
+            login(args)
+
+
         print('Completed: ' + str(
             ((step+1) + pos * .25 - .25) / (steplimit2) * 100) + '%')
         step +=1
